@@ -1,0 +1,800 @@
+body{font-family:Verdana,Arial;font-size:11px;color:#333;background-color:#fff;margin:0px;padding:0
+0 50px 0}.clear_both{clear:both;font-size:1px}.bx_sys_default_padding{padding:10px}.bx_sys_unit_checkbox{background-color:#FCC;height:20px;left:1px;position:absolute;top:1px;width:20px;z-index:1}div.thumbnail_block{margin:0px;padding:0px;background-color:#FFF;text-align:center;position:relative}div.thumbnail_image,div.thumbnail_image_couple{margin:0px;padding:0px;position:relative;border:1px
+solid #ccc;font-size:0px;line-height:0px}div.thumbnail_image
+img{background-position:center;background-repeat:no-repeat;background-color:#EDEDED;border:2px
+solid white}div.thumbnail_image_couple
+img{background-position:center;background-repeat:no-repeat;background-color:#EDEDED;border-color:white;border-style:solid}div.thumbnail_block
+img{background-position:center;background-repeat:no-repeat}div.thumbnail_image img.sys-online-offline{border:0px;background-color:transparent}img.sys-online-offline{right:0px;top:0px;position:absolute}div.thumbnail_image_couple img.sys-online-offline{background-color:transparent}div.MsgBox{padding:0px
+5px}table.MsgBox{margin:15px
+auto 15px auto}.MsgBox
+td{margin:0px;padding:0px}.MsgBox .msgbox_corner, .MsgBox .msgbox_top_side, .MsgBox .msgbox_left_side, .MsgBox .msgbox_right_side, .MsgBox
+.msgbox_bottom_side{width:auto;height:auto;margin:0px;padding:0px;border:0px}.MsgBox .msgbox_corner, .MsgBox .msgbox_corner
+img{width:7px;height:7px;font-size:0px}.MsgBox .msgbox_left_side, .MsgBox .msgbox_right_side, .MsgBox .msgbox_top_side, .MsgBox
+.msgbox_bottom_side{background-color:#F8F8F8;background-image:url(http://www.biggestdating.com//templates/base/images/msgbox_bd.gif);font-size:0px}.MsgBox
+.msgbox_left_side{width:7px;background-position:left top;background-repeat:repeat-y}.MsgBox
+.msgbox_right_side{width:7px;background-position:right top;background-repeat:repeat-y}.MsgBox tr
+.msgbox_top_side{height:7px;background-position:left top;background-repeat:repeat-x}.MsgBox
+.msgbox_bottom_side{height:7px;background-position:left bottom;background-repeat:repeat-x}.MsgBox
+.msgbox_content{border:0px;background-color:#F8F8F8}.MsgBox
+.msgbox_text{text-align:center;color:#CCC;font-weight:bold;font-size:14px;padding:10px;text-transform:uppercase}div.TransBox
+.disignBoxFirst{margin-bottom:0px}.TransBox
+td{margin:0px;padding:0px}.TransBox .corner, .TransBox .corner
+img{width:20px;height:20px;font-size:0px}.TransBox .left_side, .TransBox .right_side, .TransBox .top_side, .TransBox
+.bottom_side{background-image:url(http://www.biggestdating.com//templates/base/images/sp_op_gr.png);font-size:0px}.TransBox
+.left_side{width:20px;background-position:left top;background-repeat:repeat-y}.TransBox
+.right_side{width:20px;background-position:right top;background-repeat:repeat-y}.TransBox tr
+.top_side{height:20px;background-position:left top;background-repeat:repeat-x}.TransBox
+.bottom_side{height:20px;background-position:left bottom;background-repeat:repeat-x}#short_profile_info .TransBox
+.msgbox_content{background-image:url(http://www.biggestdating.com//templates/base/images/op40.png);position:relative}#short_profile_info .TransBox .corner, #short_profile_info .TransBox .corner
+img{width:10px;height:10px}#short_profile_info .TransBox
+.left_side{width:10px}#short_profile_info .TransBox
+.right_side{width:10px}#short_profile_info .TransBox tr
+.top_side{height:10px}#short_profile_info .TransBox
+.bottom_side{height:10px}#short_profile_info .TransBox .actionsBlock .actionItem
+img{vertical-align:middle}#short_profile_info .TransBox .profile_status
+img{vertical-align:middle}#short_profile_info .TransBox
+.profile_status{margin-top:9px}#short_profile_info .TransBox
+.profile_status_message{margin-top:4px}#short_profile_info .TransBox
+.profile_actions{}#short_profile_info .TransBox
+div.reduce{position:absolute;text-align:right;right:12px}.disignBoxFirst{border:1px
+solid #CCC;margin-bottom:10px;background-image:url(http://www.biggestdating.com//templates/base/images/head_cutting.gif);background-repeat:repeat-x;position:relative}.boxFirstHeader{height:21px;padding:7px
+0px 0px 10px;font-size:12px;color:#333;font-weight:bold;text-align:left;text-transform:capitalize;border-bottom:1px solid #CCC;position:relative;font-family:Verdana,Arial}.boxContent{overflow:hidden;font-size:11px;padding:1px
+1px 1px 1px;background-color:#fff}.boxContent>.form_advanced>.form_advanced_wrapper,.boxContent>.dbContentHtml,.boxContent>.RSSAggrCont>.rss_feed_wrapper,.login_box_text{margin:9px}.disignBoxFirst .boxFirstHeader
+.dbTitle{position:relative;float:left}.disignBoxFirst .boxFirstHeader .dbTopMenu, .disignBoxFirst .boxFirstHeader
+.caption_item{position:absolute;top:0px;right:0px;white-space:nowrap;color:#333;font-size:11px;text-transform:capitalize;font-weight:bold}.disignBoxFirst .boxFirstHeader
+.caption_item{padding-top:3px;padding-right:5px}div.dbTmLeft,div.dbTmRight,div.dbTmCenter{height:28px}div.dbTmCenter{width:146px;white-space:nowrap;overflow:hidden}div.dbTmLeft,div.dbTmRight{padding:0px
+10px;background-repeat:no-repeat;background-position:center center}div.dbTmLeft{background-image:url(http://www.biggestdating.com//templates/base/images/dbTmLeft.png)}div.dbTmRight{background-image:url(http://www.biggestdating.com//templates/base/images/dbTmRight.png)}div.dbTmLeft img, div.dbTmRight
+img{width:7px;height:28px}div.dbTmContent{width:1000px;position:absolute;float:left;white-space:nowrap}.dbTopMenu div.active, .dbTopMenu
+div.notActive{float:left;padding:0px
+5px;border-left:0px solid #ccc;height:28px;line-height:28px;position:relative;font-weight:normal}.dbTopMenu div.active img.with_icon, .dbTopMenu div.notActive
+img.with_icon{left:5px;top:6px;position:absolute}.dbTopMenu div.active a.with_icon, .dbTopMenu div.notActive
+a.with_icon{padding-left:20px}.dbTopMenu div a, .dbTopMenu div a:link, .dbTopMenu div a:hover, .dbTopMenu div a:active, .dbTopMenu div a:visited{color:#666;font-family:Verdana,Arial;font-size:11px}.caption_item
+a{margin-left:4px}.dbTopMenu
+div.active{background:transparent url(http://www.biggestdating.com//templates/base/images/icons/_dbtopmenu_left.gif) no-repeat scroll 0%;cursor:pointer;display:block;float:left;height:28px;line-height:28px;padding:0pt 0pt 0pt 5px}.dbTopMenu .active
+span{background:transparent url(http://www.biggestdating.com//templates/base/images/icons/_dbtopmenu_right.gif) repeat-y scroll right top;display:block;float:left;height:28px;padding:0pt 5px 0pt 0px}div.dbPrivacy{height:16px;margin-right:10px;position:relative;float:left}div.dbPrivacyMenu{width:300px;position:absolute;display:none;z-index:777;background-color:#fff;line-height:14px;font-weight:normal}div.dbPrivacyItem{padding:2px
+0px;text-align:center}div.dbPrivacyMenu a.dbPrivacyGroup:visited, div.dbPrivacyMenu a.dbPrivacyGroup:link{text-decoration:none;color:#333}div.dbPrivacyMenu a.dbPrivacyGroup:hover, div.dbPrivacyMenu a.dbPrivacyGroup:active{text-decoration:none;color:#33c}div.dbPrivacyMenu a.dbPrivacyGroupActive:visited, div.dbPrivacyMenu a.dbPrivacyGroupActive:link{text-decoration:none;color:#33c}div.dbPrivacyMenu a.dbPrivacyGroupActive:hover, div.dbPrivacyMenu a.dbPrivacyGroupActive:active{text-decoration:none;color:#333}.boxFirstHeader
+div.notActiveIcon{background-position:0 5px;background-repeat:no-repeat;padding-left:18px}.dbBottomMenu{text-align:center;height:30px;line-height:30px;margin-top:2px;background-color:#EDEDED;padding:0px
+9px 0px 9px;font-size:11px;text-decoration:none;margin:1px}.dbContent{margin:10px;position:relative}.dbBottomMenu a.backMembers, .dbBottomMenu a.moreMembers, .dbBottomMenu
+a.viewAllMembers{text-transform:capitalize;outline:none}.backMembers{float:left;overflow:hidden;white-space:nowrap;width:25%;text-align:left}.moreMembers{float:right;overflow:hidden;white-space:nowrap;text-align:right;width:25%}.bot_icon_right{float:right;margin-left:5px;margin-top:8px}.bot_icon_left{float:left;margin-right:5px;margin-top:8px}div.disignBoxFirst
+div.dbClose{width:28px;height:28px;background-position:center;background-repeat:no-repeat}div.disignBoxFirst div.dbClose
+img{width:28px;height:28px}table.popup_form_wrapper
+div.disignBoxFirst{margin-bottom:0px}div.paginate{background-color:#EDEDED;height:30px;width:99%}div.paginate div.info, div.paginate div.view_all, div.paginate div.reloader, div.paginate
+div.per_page{float:left}div.paginate
+div.info{height:30px;padding:0px
+5px 0px 10px;line-height:30px;font-size:11px;font-weight:bold;color:#333}div.paginate
+div.view_all{height:30px;margin-left:10px;padding-left:21px;background-position:0px center;background-repeat:no-repeat;line-height:30px}div.paginate div.view_all
+a{font-weight:normal !important}div.paginate div.view_all a:hover{text-decoration:underline}div.paginate div.info
+span{font-weight:normal;color:#666}div.paginate
+div.per_page{padding:6px
+0px 0px 15px;font-size:11px;color:#666}div.paginate
+div.pages_section{text-align:right;padding-right:10px;float:right;font-size:11px;color:#333}div.paginate_btn{width:20px;height:16px;margin-top:7px;float:left;background-position:center 0px;background-repeat:no-repeat}div.paginate_btn
+img{width:20px;height:16px}div.paginate_btn:hover{background-position:center -16px}div.paginate_btn.notactive{background-position:center -32px}div.paginate div.pages_section
+div.not_active_page{float:left;padding:0
+5px 0;padding-top:8px;text-align:center;color:#33C}div.paginate div.pages_section
+div.active_page{float:left;background-color:#FFF;text-align:center;margin-left:2px;margin-right:2px;font-weight:bold;padding:8px
+4px 3px;color:#333}.boxContent
+.votes_small{float:right;width:40%}.votes_big,.votes_small{}.votes_big{margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:10px;width:200px}.votes_gray_big,.votes_gray_small{position:relative;float:left}.votes_gray_big{height:16px;background-image:url(http://www.biggestdating.com//templates/base/images/vote_star_gray_32.png)}.votes_gray_small{height:15px;background-image:url(http://www.biggestdating.com//templates/base/images/vote_star_gray_16.png)}.votes_active_big,.votes_active_small{position:absolute;top:0;left:0;z-index:1}.votes_active_big{height:16px;background-image:url(http://www.biggestdating.com//templates/base/images/vote_star_active_32.png)}.votes_active_small{height:15px;background-image:url(http://www.biggestdating.com//templates/base/images/vote_star_active_16.png)}.votes_buttons{position:absolute;top:0;left:0;z-index:2}.votes_button_big,.votes_button_small{margin:0;padding:0;border:none}.votes_button_big{width:18px;height:16px}.votes_button_small{width:11px;height:15px}.votes_big b, .votes_small
+b{color:#333;font-weight:bold;display:block;float:left}.votes_big
+b{font-size:12px;line-height:18px;margin-left:10px}.votes_small
+b{font-size:13px;line-height:11px;margin-left:6px}.actionsBlock
+.votes_small{float:left;width:90px}.popup_form_wrapper{border-collapse:collapse;margin:0px;padding:0px;width:100%}.popup_form_wrapper
+td{padding:0px;margin:0px}.popup_form_wrapper
+td.corner{width:16px;height:16px;font-size:1px}.popup_form_wrapper
+td.side{width:16px}.popup_form_wrapper
+td.side_ver{height:16px}.popup_form_wrapper td.side_ver, .popup_form_wrapper
+td.side{background-image:url(http://www.biggestdating.com//templates/base/images/sp_op_gr.png);font-size:1px}.popup_form_wrapper
+td.container{background-color:white;width:450px}.ac_results{padding:0px;border:1px
+solid black;background-color:white;overflow:hidden;z-index:99999}.ac_results
+ul{width:100%;list-style-position:outside;list-style:none;padding:0;margin:0}.ac_results
+li{margin:0px;padding:2px
+5px;cursor:default;display:block;font:menu;font-size:12px;line-height:16px;overflow:hidden}.ac_loading{}.ac_odd{background-color:#eee}.ac_over{background-color:#0A246A;color:white}.blog_author span img, .blog_author_n span img, .rss_item_info span img, .newsInfo
+img{vertical-align:middle;margin-right:3px;display:none}.admin_actions_panel{background-color:#fcc;margin-top:1px;height:40px;line-height:40px}.admin_actions_panel
+table{border-collapse:collapse}.admin_actions_panel input.admin-actions-select-all{margin:3px
+3px 3px 9px}.admin_actions_panel
+div.button_wrapper{line-height:25px}.admin_actions_panel
+div.button_wrapper_close{background-color:#fcc}.admin_actions_panel
+.input_wrapper{line-height:normal}.admin_filter_panel{height:30px;line-height:30px;background-color:#ededed}.admin_filter_panel
+table{border-collapse:collapse;margin-left:10px}.admin_filter_panel table
+.input_wrapper_text{width:100px}.notify_message{background-image:url(http://www.biggestdating.com//templates/base/images/icons/notify_msg_left_bg.png);cursor:pointer;display:block;float:left;height:50px;min-width:30px;max-width:520px;padding:0
+0 5px 10px;color:#333;font-size:11px;font-weight:normal;overflow:hidden;margin:0px
+10px 0px 0px;position:relative}.notify_message#isButton:hover{background-position:0px -100px}.notify_message#isButton:active{background-position:0px -200px}.notify_message_none{background-image:url(http://www.biggestdating.com//templates/base/images/icons/notify_msg_bg.png)}.notify_message_none#isButton:hover{background-position:0px -100px}.notify_message_none#isButton:active{background-position:0px -200px}.notify_message
+table.notify{margin:0px;height:50px;padding:0
+5px 0 0}.notify_message#isButton:hover
+table.notify{background-position:right -100px}.notify_message#isButton:active
+table.notify{background-position:right -200px}.notify_message .statusTab
+#edit_form_table.form_advanced_table{margin:0px}.notify_message .statusTab #edit_form_table.form_advanced_table
+td{padding:0px}.notify_message
+.memberPic{margin-top:7px;margin-right:0px}.notify_message
+.image32{margin:7px
+0px 5px;float:left}.notify_message
+.labelUnit{font-size:12px;font-weight:bold}.notify_message
+.smallInfoUnit{font-size:9px}.notify_message
+.smallShortInfoUnit{font-size:9px;width:72px}.notify_message
+.notify_wrapper_close{background-image:url(http://www.biggestdating.com//templates/base/images/icons/notify_msg_bg.png);background-repeat:no-repeat;background-position:right top;font-size:1px;overflow:hidden;position:absolute;right:0;top:0;width:4px;height:50px;background-color:#F4F7FA}#StatusMessage{padding-left:10px;text-transform:none}#inloadedStatusMess table
+td{background-color:transparent}div.sys-loading{top:0px;left:0px;position:absolute;z-index:1100;display:none}div.sys-loading-smog{top:0px;left:0px;width:100%;height:100%;position:absolute;z-index:1101;opacity:0.7;background-color:#fff}div.sys-loading-icon{width:89px;height:64px;position:absolute;z-index:1102;background-position:center;background-repeat:no-repeat}div.sys-loading-icon
+img{width:31px;height:31px;margin:16px
+0px 0px 29px;opacity:1.0}.sys_file_search_unit{float:left;margin:5px;width:150px;height:200px;overflow:hidden;white-space:nowrap}.sys_file_search_unit_short{float:left}.sys_file_search_header{overflow:hidden;position:relative;height:15px}.sys_file_search_rate{float:left;margin-top:2px}.sys_file_search_rate
+.votes_small{float:none;position:relative;width:auto}.sys_file_search_size{float:right;margin:3px
+0px;font-size:9px;height:10px;line-height:10px}.sys_file_search_pic{width:148px;height:110px;border:1px
+solid #CCC;background-position:center;background-repeat:no-repeat;background-color:#EDEDED;position:relative}.sys_file_search_pic
+img{width:140px;height:102px;border:4px
+solid white}.sys_file_search_title{margin:2px
+0px 0px 2px;min-height:15px;max-height:28px;font-size:11px;font-weight:bold;overflow:hidden}.sys_file_search_bottom{overflow:hidden;position:relative}.sys_file_search_from{margin:0px
+0px 2px 2px;font-size:9px}.sys_file_search_when{margin-left:2px;font-size:9px;color:#888;text-transform:lowercase}.sys_file_search_country{margin:0px
+0px 2px 2px;font-size:9px;height:12px;overflow:hidden}.sys_album_unit{float:left;position:relative;width:150px;height:220px;margin:0px}.sys_album_private{background:no-repeat center}.sys_album{width:140px;height:140px;margin:5px;cursor:pointer;white-space:nowrap;overflow:hidden;background-color:#EDEDED;border:1px
+solid #CCC}.sys_album_units{float:left;position:relative;width:64px;height:64px;margin:2px;border:1px
+solid #FFF;background:no-repeat center}.sys_album_cover{}.sys_album_unit .sys_file_search_title, .sys_album_unit .sys_file_search_bottom, .sys_album_unit
+.sys_file_search_when{margin-left:5px}.sys_album_unit
+.sys_file_search_from{}div#divUnderCustomization{position:relative}.navPanel{margin:0px
+auto 10px;position:relative}.navPanelLink{line-height:28px;font-size:16px}.navPanelNext>.navPanelIcon{float:right}.navPanelNext>.navPanelLink{float:right}.navPanelPrev{float:left;position:relative}.navPanelNext{float:left;position:relative}.navPanel img.navPanelLinkPrev, .navPanel
+img.navPanelLinkNext{position:absolute;top:0;right:42px}.navPanel
+img.navPanelLinkNext{right:0}.rss_item_wrapper{padding-bottom:8px}.rss_item_wrapper:last-child{padding-bottom:0px}.rss_item_header{font-size:12px;font-weight:bold;padding-bottom:0px}.rss_item_header a,  .rss_item_header a:link,  .rss_item_header a:visited,  .rss_item_header a:hover,  .rss_item_header a:active{font-size:12px;font-weight:bold;color:#33c}.rss_item_info{color:#999;font-size:9px}.rss_item_desc{text-align:justify;font-size:11px}.rss_read_more{background-color:#EDEDED;font-size:11px;font-weight:normal;height:30px;line-height:30px;vertical-align:middle;margin-top:2px;padding:0
+9px;text-align:left;text-decoration:none;text-transform:capitalize}.loading_rss{text-align:center;width:89px;height:64px;background-image:url(http://www.biggestdating.com//templates/base/images/loading_bg.png);z-index:10;margin:10px
+auto}.loading_rss
+img{margin-top:16px}.loading_rss
+div{width:89px;height:64px;background-image:url(http://www.biggestdating.com//templates/base/images/loading.gif);background-position:center center;background-repeat:no-repeat}body{background-color:transparent;background:#fff url(http://www.biggestdating.com//templates/tmpl_tmd027/images/bg-body.jpg) center top no-repeat;font:normal 11px Verdana;padding:0;color:#3f3e3e}.clsTopBody{}.clsFloatLeft{float:left}.clsFloatRight{float:right}.clear{clear:both}.clsClearFix:after{content:".";display:block;height:0;clear:both;visibility:hidden}.clsClearFix{display:inline-table}/*\*/* html
+.clsClearFix{height:1%}.clsClearFix{display:block}/**/.rss_read_more{background-color:transparent}.quote_div{color:#fff!important;font-size:11px!important}.quote_div
+.author{color:#fff!important;font-size:11px!important}.disignBoxFirst{background-image:none;border:none}.boxContent{background-color:transparent;border-left:1px solid #d7e4e6 !important;padding-right:6px !important}.boxFirstHeader{border-bottom:none;color:#000;padding:12px
+0 8px 10px;font:bold 18px Times New Roman;background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/header_c.png) repeat-x scroll center 0 transparent;border-left:1px solid #D7E4E6;margin-right:5px}.header_l{}.header_r{}.header_c{}.disignBoxFirst .boxFirstHeader
+.dbTitle{float:none}.rss_item_header a, .rss_item_header a:link, .rss_item_header a:visited, .rss_item_header a:hover, .rss_item_header a:active{color:#5f5e5d}.rss_item_header a, .rss_item_header a:link, .rss_item_header a:visited, .rss_item_header a:hover, .rss_item_header a:active{color:#5f5e5d}.rss_item_info{color:#5f5e5d;font-size:11px}.notify_message_none{background-image:none}.notify_message
+.notify_wrapper_close{background-color:transparent;background-image:none}.admin_actions_panel
+div.button_wrapper_close{background-color:transparent}.notify_message{background-image:none}.input_wrapper_textarea{width:350px !important}.defaultSkin
+table.mceLayout{width:350px !important}#compose_message_parent
+table.mceLayout{width:607px !important}#page_block_267
+.boxFirstHeader{color:#5F5E5D!important}div.top_rated_head{color:#5f5e5d!important}.notify_message{color:#5f5e5d}div.message_block
+span.date{color:#5f5e5d!important}.sys_file_search_when{color:#5f5e5d}.bx_files_unit{background:none repeat scroll 0 0 transparent!important}div.arl-entry{background:none repeat scroll 0 0 transparent!important}div.arl-date{color:#5f5e5d!important}.bx_files_when{color:#5f5e5d!important}div.message_block
+span.by{color:#5f5e5d!important}#orca_main .disignBoxFirst .boxFirstHeader
+.dbTitle{color:#000 !important}.forum_error_msg{margin:10px!important}.live_fade{background-image:none!important}#orca_main
+.boxFirstHeader{color:#5F5E5D}div.paginate
+div.info{color:#5f5e5d}.forum_stat{color:#5f5e5d!important}#f_breadcrumb{margin:0
+0 0 15px}.rss_read_more{background-color:#eff6f7}.dbBottomMenu{background-color:#eff6f7}div.paginate{background-color:#eff6f7}div.mbp-current-level div.mbp-level{background-color:transparent!important}.admin_actions_panel{background-color:#eff6f7;width:971px}.admin_filter_panel{background-color:#eff6f7}div.pmt-orders-header{background-color:#f1f1f1!important}div#pmt-orders-pending,div#pmt-orders-processed,div#pmt-orders-history{border:1px
+solid #f1f1f1!important}div.wall-divider,div.wall-divider-today{background-color:#f1f1f1!important}div.wall-divider-nerrow{background-color:#f1f1f1!important}.bx_events_main_photo{border:1px
+solid #f1f1f1!important;width:549px!important}.fileUnit{background:transparent!important}.fileUnitPic{border:1px
+solid #f1f1f1!important}.clr3{color:#5f5e5d!important}.cls_res_info_nowidth{color:#5f5e5d!important}.forum_error_msg{border:2px
+solid #f7f7f7!important}.disignBoxFirst .boxFirstHeader .dbTopMenu, .disignBoxFirst .boxFirstHeader
+.caption_item{top:11px!important;right:10px !important}.dbTopMenu .active
+span{background:none}.dbTopMenu
+div.active{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/button1.png) repeat-x scroll left top transparent;height:22px;line-height:20px;border:1px
+solid #81b6bd;color:#fff !important}div.dbTmCenter{margin-right:120px}.disignBoxFirst .boxFirstHeader .dbTopMenu, .disignBoxFirst .boxFirstHeader
+.caption_item{font:normal 11px verdana;color:#fff}.dbTopMenu div a, .dbTopMenu div a:link, .dbTopMenu div a:hover, .dbTopMenu div a:active, .dbTopMenu div a:visited{color:#000}.page_block_container{margin-left:0px;margin-right:0 !important}div.common{padding:0!important}#Container_inner
+.disignBoxFirst{margin:0
+7px 10px 0;padding-bottom:10px !important;background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/bg-box-center.png) right bottom no-repeat !important}#page_column_1
+.disignBoxFirst{margin:5px
+10px 10px 0 !important;padding-bottom:10px;background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/bg-box-center.png) right bottom no-repeat !important}#page_column_2
+.disignBoxFirst{margin:5px
+7px 10px 7px !important;padding-bottom:10px;background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/bg-box-center.png) right bottom no-repeat !important}.dbTopMenu div.active, .dbTopMenu
+div.notActive{line-height:20px}div.dbTmContent{top:2px}div.news-entry{background-color:#f1f1f1!important}.bx_sys_unit_checkbox{background-color:#EDEDED}#orca_main .dbTopMenu div a, #orca_main .dbTopMenu div a:link, #orca_main .dbTopMenu div a:hover, #orca_main .dbTopMenu div a:active, #orca_main .dbTopMenu div a:visited{color:#333}.adv_search_form1_wrapper .form_input_select, .adv_search_form2_wrapper
+.form_input_select{width:180px}#inloadedStatusMess #edit_form_table
+.input_wrapper_text{width:315px!important}#inloadedStatusMess #edit_form_table
+input#UserStatusMessBut_nm{width:315px!important}#edit_form_table input[type="button"]{margin-top:4px}img.wall-ptype-ctl{left:5px;position:absolute;top:3px!important}#bxwall .wall-view div.wall-event{padding:10px
+0 0 38px!important}#form_change_status .form_change_status_wrapper
+.form_input_submit{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/button1.png) repeat-x scroll left top transparent;color:#FFF !important;cursor:pointer;margin:0
+0 0 137px;padding:0
+0 3px;width:171px}#join_form_table
+.input_wrapper_textarea{width:350px !important}#join_form_table .defaultSkin
+table.mceLayout{width:350px !important}#page_block_190 .boxFirstHeader, #page_block_188
+.boxFirstHeader{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/header_c.png) center 0 repeat-x}.main{padding-left:5px !important}div.sys_album_units,div.thumbnail_block,div.viewSwitchFile{margin-bottom:0px;.}div.viewSwitchFile{background-color:#EFF6F7}div.sys_album_units:hover,div.thumbnail_block:hover{}div.thumbnail_image{border-color:transparent;-webkit-border-top-right-radius:10px;-webkit-border-bottom-left-radius:10px;-moz-border-radius-topright:10px;-moz-border-radius-bottomleft:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border:1px
+solid gray;padding:2px;padding-bottom:1px}div.thumbnail_image:hover{-moz-box-shadow:3px 3px 5px 2px #ccc;-webkit-box-shadow:3px 3px 5px 2px #ccc;box-shadow:3px 3px 5px 2px #ccc}.viewSwitchFile{-webkit-border-top-right-radius:10px;-webkit-border-bottom-left-radius:10px;-moz-border-radius-topright:10px;-moz-border-radius-bottomleft:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border:1px
+solid gray;padding:2px}div.sys_album_units{-webkit-border-top-right-radius:10px;-webkit-border-bottom-left-radius:10px;-moz-border-radius-topright:10px;-moz-border-radius-bottomleft:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border:1px
+solid gray;padding:1px}div.sys_album_units:hover{-moz-box-shadow:3px 3px 5px 2px #ccc;-webkit-box-shadow:3px 3px 5px 2px #ccc;box-shadow:3px 3px 5px 2px #ccc}.thumb_username{padding-top:5px}div.bx_photos_file_search_pic{border:1px
+solid #91C3C9;-moz-box-shadow:3px 3px 5px 2px #ccc;-webkit-box-shadow:3px 3px 5px 2px #ccc;box-shadow:3px 3px 5px 2px #ccc;background-color:transparent}div.bx_photos_file_search_pic:hover{-moz-box-shadow:5px 5px 5px 5px #ccc;-webkit-box-shadow:5px 5px 5px 5px #ccc;box-shadow:5px 5px 5px 5px #ccc}div.sys_album{width:145px;height:142px;background-color:#EFF6F7}input[type=submit]{cursor:pointer}.form_input_captcha
+img{border:1px
+solid #C3DADD  !important}#ajax_loader{position:fixed;top:50%;left:50%;margin-top: -50px;width:200px;height:100px;z-index:5000;position:fixed;left:40%;bottom:40px;width:200px;height:100px;padding:10px;background:#000;opacity:0.8;color:#FFF;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;font-family:Arial,Helvetica,sans-serif;text-shadow:none;text-align:center;display:none}#ajax_loader
+img{margin:0
+auto}#ajax_loader
+.contant{opacity:1;font-size:14px}a img,form,p{border:0px;border-style:none;margin:0px;padding:0px}p{margin-bottom:1em}li{margin-bottom:0.5em}object{display:block !important}div.top_settings_block{background-color:#EDEDED;height:30px;width:100%;color:#666}div.top_settings_block
+div.ordered_block{padding-top:5px;padding-left:9px;float:left}div.top_settings_block
+div.per_page_block{padding-top:5px;float:right;padding-right:9px}div.member_block{float:left;margin:5px;position:relative}div.rate_block{margin-left:auto;margin-right:auto;margin-bottom:2px}div.rate_text{text-align:left}div.rate_scale{height:10px;font-size:1px;line-height:10px;border:1px
+solid #9DA0A1;margin:0px;padding:0px;text-align:left}div.no_result,div.action{border:1px
+solid #CCC;padding:1px;margin:10px
+0px;width:80%;margin-left:auto;margin-right:auto}div.no_result div,
+div.action
+div{background-color:#CCC;vertical-align:middle;font-weight:bold;color:#fff;text-align:center;margin:0px;padding:0px;line-height:20px}* html div.no_result div, * html div.action div, * html
+div{line-height:normal;padding:3px
+0px}div#switch_lang{position:absolute;top:4px;right:10px}div#switch_skin{position:absolute;top:18px;right:10px}.controlsDiv{clear:both;margin:10px
+auto;background-color:#fff;width:326px}td{text-align:left}a img,form{border:none;margin:0px;padding:0px}select,select.no,input,input.no,textarea,textarea.no,button{font-size:11px;font-family:Verdana,Arial}.main{border:0px;background-color:transparent;margin:10px
+auto 5px}div.sys_main_logo{position:relative;z-index:56;background-color:#f4f4f4}div.sys_ml{margin:0px
+auto;position:relative}div.sys_ml_wrapper{margin:0px
+10px}div.sys_breadcrumb{height:19px;margin-top:10px}div.sys_bc_wrapper{margin:0px
+auto}.Notice{padding:3px;width:70%;border:1px
+solid #cc6;background-color:#ffc;margin:5px
+auto;text-align:center;color:black}.bodyBlock{z-index:50;padding:10px
+10px 0px 10px;border-left:1px solid #CCC;border-right:1px solid #CCC;border-bottom:1px solid #CCC;background-color:#FFF}.page_column{float:left;overflow:hidden}.page_block_container{margin-left:5px;margin-right:5px}.page_column_single
+.page_block_container{margin-left:0px;margin-right:0px}.page_column_first
+.page_block_container{margin-left:0px}.page_column_last
+.page_block_container{margin-right:0px}div.design_box_border{border:1px
+solid #ccc;margin:10px;padding:1px}div.design_box_border
+div.header{padding:0px
+0px 0px 7px;height:30px;line-height:23px;vertical-align:middle;font-size:12px;font-weight:bold;text-transform:uppercase;background-image:url(http://www.biggestdating.com//templates/base/images/design_border_cutting.gif);background-repeat:repeat-x}div.design_box_border
+div.keeper{padding:5px;border:0px
+solid red;text-align:center;margin:2px}.skinBlock{border:0px
+solid red;float:right;margin-top:24px;margin-right:-90px}.action{margin-top:20px}.small{font-size:11px;color:#336}.quickLinksBlock{padding:6px}.actionsСontainer{padding:7px}.actionsBlock{padding:0}.actionsBlock
+.button_wrapper{height:25px;line-height:25px;text-align:left;white-space:nowrap;background-image:none;display:block;float:left}.actionsBlock
+.button_wrapper_close{position:static;float:right;background-color:transparent}.actionsBlock
+.button_input_wrapper{margin-right:4px;background-position:left top;background-repeat:no-repeat;background-image:url(http://www.biggestdating.com//templates/base/images/button_bg.png)}.actionsBlock .button_input_wrapper:hover{background-position:left -50px}.actionsBlock .button_input_wrapper:active{background-position:left -100px}.actionsBlock .button_input_wrapper
+button{width:100%;height:25px;line-height:25px;text-align:left;border:none;background-color:transparent;padding:0px;white-space:nowrap;overflow:hidden;outline:none}.actionsBlock .button_input_wrapper button::-moz-focus-inner{border:none}.actionsBlock  .button_wrapper
+img{width:16px;height:16px;vertical-align:middle;margin:1px
+4px 2px 4px;display:inline}.actionsBlock
+.menuLink{padding-right:3px}.tags_wrapper{text-align:center;border:0px
+solid green;margin:10px}.one_tag{line-height:30px;padding:0px;margin:0px}.one_tag
+a{margin:0
+3px 0 0;padding:0px}.categories_wrapper{margin:10px;overflow:hidden}.categories_col{float:left}div.rate_text{text-align:center;font-weight:bold}.edit_item_table_cont{border:1px
+solid #666}.bottomCopyright{background-color:#F9F9F9;border:1px
+solid #ccc;margin:6px
+auto 0px}.bottomCopyright
+.bottomLinks{float:left;height:21px;width:75%;overflow:hidden;text-transform:lowercase;padding-left:10px;padding-top:7px}.bottomCopyright .bottomLinks
+span{padding-left:5px}.bottomCopyright
+.bottomCpr{float:right;padding-right:10px;color:#333;font-weight:normal;font-size:11px;padding-top:7px}.short_desc{float:left;width:760px}.login_ajax{position:fixed;z-index:550;display:none;top:0px;left:0px}.login_ajax_wrap{width:430px}.login_ajax_wrap
+table.TransBox{width:100%}.login_ajx_close{margin-top:2px;z-index:150;cursor:pointer}hr.divider{border-width:0px;border-top:1px solid #CCC}.left_line_aligned{display:inline;float:left}.right_line_aligned{float:right;margin-top:5px}.login_form_label{}.loading_ajax{text-align:center;position:absolute;width:89px;height:64px;background-image:url(http://www.biggestdating.com//templates/base/images/loading_bg.png);z-index:10}.loading_ajax_rotating{position:absolute;left:29px;top:16px;width:31px;height:31px;background-image:url(http://www.biggestdating.com//templates/base/images/loading.gif);z-index:11}.block_rel_100{display:block;width:100%}.centered_div{margin:0px
+auto}.block_rel_100
+div.search_res_members_block_1{float:left;margin:5px;overflow:hidden}.block_rel_100
+div.search_res_members_nickname{color:#000;font-size:11px;font-weight:bold;line-height:17px;text-align:center}.block_rel_100 .short_desc
+.actionsBlock{margin:0px}.short_desc .actionsBlock a, .short_desc .actionsBlock a:link, .short_desc .actionsBlock a:visited, .short_desc .actionsBlock a:hover, .short_desc .actionsBlock a:active{font-size:10px;font-weight:normal;text-transform:capitalize}.block_rel_100
+.short_desc{margin-top:10px}.block_rel_100 .searchrow_block
+.thumbnail_block{margin:10px}div.searchrow_block{margin:4px;height:90px}div.searchrow_block
+div.thumb_section{float:left;padding:10px}div.searchrow_block
+div.short_desc{float:left;width:70%;overflow:hidden;padding-top:8px}div.searchrow_block div.short_desc
+div.nick{font-size:12px;line-height:17px;text-align:left;font-weight:bold}div.searchrow_block
+div.short_desc
+div.age_from{color:#333;line-height:17px;text-align:left;font-family:Verdana,Arial;padding-top:3px}div.searchrow_block
+div.short_desc
+div.age_from
+img{vertical-align:middle;margin-bottom:2px}div.searchrow_block
+div.short_desc
+div.desc{color:#666;text-align:left;padding-top:3px}div.short_desc
+div.nick{font-weight:bold;color:#800080;font-size:12px}div.nick
+a{color:#036}div.searchrow_block
+div.block_actions{float:right;width:34%}div.searchrow_block
+div.block_actions a,
+div.block_actions a:link,
+div.block_actions a:visited,
+div.block_actions a:hover,
+div.block_actions a:active{font-size:10px}div.searchrow_block
+div.match{float:right;margin:5px}div.search_filled_block{background-color:#F1F0FF}div.searchrow_block_simple{margin:5px;padding:5px;float:left;text-align:center}div.searchrow_block_simple
+div.search_res_members_nickname{font-size:12px;line-height:17px;height:15px;overflow:hidden}.browse_nick{text-align:center}.thumb_username{font-size:11px;text-align:center;overflow:hidden;white-space:nowrap;height:15px}.icon_username{text-align:center;overflow:hidden;font-size:11px}.infoMain{}.infoMain
+div{}.memberPic{float:left;margin:5px}.infoText{float:left;margin:5px;overflow:hidden}.infoText
+img{position:absolute;top:0px;left:0px}.rate{height:11px;line-height:11px;margin:0px
+0px 10px 0px}.infoUnit{line-height:16px;margin:4px
+0px;padding-left:20px;position:relative;width:150px}.infoDesc{font-size:12px;margin:5px
+4px 12px 4px;text-align:justify}.mediaBox{margin:0px
+4px}.boxUnit{float:left;margin:5px
+0px}.boxUnit
+div{height:21px}.boxUnitCaption{width:50px;float:left;text-align:right;line-height:21px}.boxUnitContent{float:left;width:200px}.boxUnitContent
+input{margin:0px
+0px 0px 0px;width:100%}.usualHeader{font-size:12px;font-weight:bold;margin-bottom:4px}.usualHeader
+a{font-size:12px}.usualTextMarg{margin-bottom:10px}.mainLogo{margin:12px
+0px}.sys_icon{width:32px;border:1px
+solid #CCC;background-color:#FFF;padding:2px;text-align:center}.sys_msg_pending_approval{background-color:#fcc;line-height:30px;text-align:center;margin:0
+0 10px 0;min-width:600px}div.extra_top_menu{text-align:center;width:100%;display:none;min-width:600px}div.extra_top_menu
+div#primary_menu_section{float:left}div.extra_top_menu
+div#extra_menu_section{float:right}div.extra_top_menu
+table.fixed_menu{width:98%;min-width:600px;border:1px
+solid #8D8D8D;height:27px;margin:0
+auto}div.extra_top_menu table.fixed_menu
+td{border-top:1px solid #fff}div.extra_top_menu table.fixed_menu table
+td{border:0}div.extra_top_menu table.fixed_menu
+ul{margin:0;padding:0;list-style-type:none;z-index:300}div.extra_top_menu table.fixed_menu
+li{position:relative;float:left;white-space:nowrap;text-align:left}div.extra_top_menu table.fixed_menu
+li.extra_item{float:left;position:relative}div.extra_top_menu
+div.devider{float:left;position:relative;margin-top:1px;margin-bottom:1px;border:0px
+!important;margin-left:1px}div.extra_top_menu table.fixed_menu div.popup_html
+div.bubble{position:absolute;right:0;top:2px;cursor:pointer;width:auto;white-space:nowrap}div.extra_top_menu table.fixed_menu div.popup_html
+div.description{position:absolute;visibility:hidden;z-index:1000;left:-10px}div.extra_top_menu table.fixed_menu #extra_menu_section
+div.description{left:auto;right:-10px}div.extra_top_menu table.fixed_menu div.popup_html
+div.description_top{top:30px}div.extra_top_menu table.fixed_menu div.popup_html
+div.description_bottom{bottom:18px}div.extra_top_menu table.fixed_menu div.popup_html div.bubble
+table{cursor:pointer}div.extra_top_menu table.fixed_menu div.popup_html div.bubble
+td.bubble_count{font-size:8px;color:#fff;background-repeat:repeat-x}div.extra_top_menu table.fixed_menu div.popup_html
+img{vertical-align:middle}div.extra_top_menu table.fixed_menu div.popup_html div.devider
+img{width:2px;height:25px}div.extra_top_menu table.fixed_menu div.popup_html
+div.menu_item{padding:0
+3px;border-left:1px solid transparent;border-right:1px solid transparent;border-top:none;border-bottom:none;float:left;position:relative;height:28px}div.extra_top_menu table.fixed_menu div.popup_html
+div.menu_item_active{background-color:#FAFAFA;border-right:1px solid #B7B7B7;border-left:1px solid #B7B7B7}div.extra_top_menu table.fixed_menu div.popup_html
+div.menu_item_top{margin-bottom:-1px}div.extra_top_menu table.fixed_menu div.popup_html
+div.menu_item_bottom{margin-top:-1px}div.extra_top_menu table.fixed_menu div.popup_html ul
+ul{position:absolute;left:0;display:block;visibility:hidden}div.extra_top_menu table.fixed_menu div.popup_html ul ul
+li{display:list-item;float:none;margin:0;width:100%}div.extra_top_menu table.fixed_menu div.popup_html
+table.popup{background-repeat:repeat;border-left:1px solid #B7B7B7;border-right:1px solid #B7B7B7}div.extra_top_menu table.fixed_menu div.popup_html table
+table{width:auto}div.extra_top_menu table.fixed_menu div.popup_html
+div.extra_data{background-color:#E4E4E4;font-weight:bold;position:relative;padding-left:10px;padding-top:5px;padding-bottom:5px}div.extra_top_menu table.fixed_menu div.popup_html
+div.top_cover{border-top:1px solid #B7B7B7}div.extra_top_menu table.fixed_menu div.popup_html
+div.bottom_cover{border-bottom:1px solid #B7B7B7}div.extra_top_menu table.fixed_menu div.popup_html  div.extra_data
+table{width:100%}div.extra_top_menu table.fixed_menu div.popup_html  div.extra_data
+td.part_img{width:16px}div.extra_top_menu table.fixed_menu div.popup_html  div.extra_data
+td.part_name{padding-left:5px;padding-right:5px}div.extra_top_menu table.fixed_menu div.popup_html  div.extra_data
+td.reduce{width:20px;padding-right:2px}div.extra_top_menu table.fixed_menu div.popup_html  div.extra_data td.reduce
+div{margin-left:5px;margin-right:5px;width:100%}div.extra_top_menu table.fixed_menu div.popup_html  div.extra_data td.reduce
+img{cursor:pointer}div.extra_top_menu table.fixed_menu div.popup_html
+div.html_data{padding-left:10px;padding-right:10px}div.extra_top_menu table.fixed_menu div.popup_html div.html_data
+div.form_advanced_table{margin:5px;border:0;width:400px}div.extra_top_menu table.fixed_menu div.popup_html div.html_data
+.input_wrapper_text{width:390px;margin:5px;position:relative}div.extra_top_menu table.fixed_menu div.popup_html td.html_data
+img{vertical-align:middle}div.extra_top_menu table.fixed_menu div.popup_html
+div.control{background-color:#E4E4E4;white-space:nowrap;color:#33C;margin-left:-10px;margin-right:-10px;padding:10px
+10px}div.extra_top_menu table.fixed_menu div.popup_html div.control
+div{padding-bottom:3px;padding-top:3px}div.extra_top_menu table.fixed_menu div.popup_html
+div.content{font-size:9px;color:#666;padding-bottom:5px;padding-top:5px}div.extra_top_menu table.fixed_menu div.popup_html div.content
+table{width:100%}div.extra_top_menu table.fixed_menu div.popup_html div.content table
+td.sub_item_img{width:18px}.profile_status{margin:5px
+10px;font-size:11px;height:16px;font-weight:bold}.profile_status
+img{margin-right:4px}.profile_status_message{margin:5px
+10px 0px 10px;font-size:11px}div.extra_menu_list{margin-top:10px;margin-bottom:10px;white-space:normal}div.extra_menu_list
+div.icon_section{background-color:#fff;border:1px
+solid #CFCFCF;margin-right:5px;width:36px;height:36px}div.extra_menu_list div.icon_section
+img.member_icon{background-position:center center;background-repeat:no-repeat;height:36px;width:36px}div.extra_menu_list
+div.message_caption{font-size:9px;color:#333;white-space:normal}div.notifi_window{position:fixed;right:0;top:50px;z-index:1000}div.notifi_window
+div.notifi{display:none;position:relative}div.notifi_window div.notifi
+table{width:250px}div.notifi_window div.notifi td.lt,
+div.notifi_window div.notifi
+td.rt{font-size:1px;width:19px;height:16px}div.notifi_window div.notifi td.mt,
+div.notifi_window div.notifi
+td.mb{font-size:1px;height:16px;background-repeat:repeat-x}div.notifi_window div.notifi td.l,
+div.notifi_window div.notifi
+td.r{font-size:1px;width:19px;background-repeat:repeat-y}div.notifi_window div.notifi
+td.m{background-repeat:repeat;color:#fff;font-size:11px;text-shadow:black 0px 0px 5px}div.notifi_window div.notifi td.lb,
+div.notifi_window div.notifi
+td.rb{font-size:1px;width:19px;height:16px}div.detailed_notify_window{float:left;position:relative;margin-left:10px}div.detailed_notify_window
+div.profile_section{font-weight:bold;font-size:12px;margin-bottom:10px}div.extra_top_menu table.description td.left_top_corner,
+div.extra_top_menu table.description
+td.right_top_corner{width:19px;height:15px;font-size:1px}div.extra_top_menu table.description td.left_top_corner img,
+div.extra_top_menu table.description td.right_top_corner
+img{display:block}div.extra_top_menu table.description
+td.top_middle{height:15px;font-size:1px;background-repeat:repeat-x;background-position:left top}div.extra_top_menu table.description td.top_middle
+img{display:block}div.extra_top_menu table.description
+td.left{width:19px;background-repeat:repeat-y;background-position:left top}div.extra_top_menu table.description
+td.middle{background-color:#fff;white-space:nowrap}div.extra_top_menu table.description
+td.right{width:19px;background-repeat:repeat-y;background-position:right top}div.extra_top_menu table.description td.left_bottom_corner,
+div.extra_top_menu table.description
+td.right_bottom_corner{width:19px;height:29px;font-size:1px}div.extra_top_menu table.description td.left_bottom_corner img,
+div.extra_top_menu table.description td.right_bottom_corner
+img{display:block}div.extra_top_menu table.description
+td.bottom_middle{height:29px;font-size:1px;background-repeat:repeat-x;background-position:left bottom}#short_profile_info{width:300px}#short_profile_info
+table.TransBox{width:100%;overflow:hidden}.swf_uploader_warning{color:#000}div.main_footer_block{border:1px
+solid #CECECE;margin-left:auto;margin-right:auto;height:49px;background-image:url(http://www.biggestdating.com//templates/base/images/footer_part.png);font-size:11px}div.powered_section{color:#333;padding-left:10px;padding-top:5px}div.powered_section a,
+div.powered_section a:link,
+div.powered_section a:visited{color:#33C;text-decoration:none}div.powered_section a:hover,
+div.powered_section a:active{color:#33C;text-decoration:underline}div.logo-section{padding-top:7px;padding-right:10px;text-align:right}div.license_section{color:#000;padding-left:10px;padding-top:5px}div.license_section a,
+div.license_section a:link,
+div.license_section a:visited{color:#33C;text-decoration:none}div.license_section a:hover,
+div.license_section a:active{color:#33C;text-decoration:underline}div.sys_main_logo{background-color:transparent}.mainLogo{margin:0
+!important}#selLogo
+a{display:block;height:69px;width:250px}#selLogo{padding:0}div.sys_ml{}.clsTopBody
+div.sys_top_menu{min-height:31px}.clsInnerBody
+#Container{padding:10px
+0 0 0}#Container{margin:0
+auto;position:relative;text-align:left !important;width:998px}div.sys_breadcrumb{margin-top:0px}.right_line_aligned{float:none;margin-left:5px}div.powered_section{color:#000!important;padding-top:10px!important}div.license_section{color:#000!important;padding-top:10px!important}div.powered_section a, div.powered_section a:link, div.powered_section a:visited{color:#000!important}div.license_section a, div.license_section a:link, div.license_section a:visited{color:#000!important}div.main_footer_block{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/footer_bg.png) repeat-x left top!important;border:none!important;height:65px!important;color:#000 !important}.bottomCopyright{background-color:transparent;border:none}.footer_main{min-height:120px;padding:10px
+0 0}div.logo-section{padding-top:13px!important}.bottomLinks span
+a{color:#202020;font:normal 11px Verdana;padding:0
+5px 0 0;text-transform:capitalize}.bottomCopyright
+.bottomLinks{padding:10px
+0 0 110px;text-align:center}.bottomCopyright
+.bottomCpr{color:#202020;float:none;padding-top:0px;text-align:center}div.top_settings_block{background-color:#eff6f7;color:#5f5e5d}.actionsBlock
+.button_input_wrapper{background-image:none}.actionsBlock .button_input_wrapper
+button{cursor:pointer;color:#5f5e5d}div.searchrow_block div.short_desc
+div.age_from{color:#5f5e5d}div.searchrow_block div.short_desc
+div.desc{color:#5f5e5d}div.search_filled_block{background-color:#f1f1f1}.bottomLinks span:last-child
+a{background:none}.page_block_container{margin-left:0 !important}#page_column_2 #page_block_151
+.disignBoxFirst{margin:5px
+3px 10px 0 !important}span#tmdHosting
+a{color:#000 !important}a,a:link{color:#33C}a:visited{color:#009}a:hover,a:active{color:#33C}a,a:link,a:visited,a:active{text-decoration:none}a:hover{text-decoration:underline}.actionsBlock a,
+.actionsBlock a:link,
+.actionsBlock a:visited,
+.actionsBlock a:hover,
+.actionsBlock a:active{font-weight:bold;font-size:11px}#short_profile_info .TransBox .actionsBlock a,
+#short_profile_info .TransBox .actionsBlock a:link,
+#short_profile_info .TransBox .actionsBlock a:visited,
+#short_profile_info .TransBox .actionsBlock a:hover,
+#short_profile_info .TransBox .actionsBlock a:active{font-size:11px}.paginate a,
+.paginate a:link,
+.paginate a:visited{text-decoration:none;font-weight:bold}div.extra_top_menu table.fixed_menu div.popup_html a,
+div.extra_top_menu table.fixed_menu div.popup_html a:link,
+div.extra_top_menu table.fixed_menu div.popup_html a:visited{display:block;color:#333;text-decoration:none;font-size:11px;padding-left:1px;padding-right:1px}div.extra_top_menu table.fixed_menu div.popup_html a:focus{outline:0}div.extra_top_menu table.fixed_menu div.popup_html a.top_indent,
+div.extra_top_menu table.fixed_menu div.popup_html a.top_indent:link,
+div.extra_top_menu table.fixed_menu div.popup_htmla.top_indent:visited{margin-top:6px}div.extra_top_menu table.fixed_menu div.popup_html a.bottom_indent,
+div.extra_top_menu table.fixed_menu div.popup_html a.bottom_indent:link,
+div.extra_top_menu table.fixed_menu div.popup_html a.bottom_indent:visited{margin-top:7px}div.extra_top_menu table.fixed_menu  div.html_data a,
+div.extra_top_menu table.fixed_menu  div.html_data a:link,
+div.extra_top_menu table.fixed_menu  div.html_data a:visited{color:#33C;display:inline;white-space:nowrap;font-size:11px;text-transform:none;padding:0}div.extra_top_menu table.fixed_menu  div.html_data a:hover{text-decoration:underline}div.extra_top_menu table.fixed_menu  div.html_data a.message,
+div.extra_top_menu table.fixed_menu  div.html_data a.message:link,
+div.extra_top_menu table.fixed_menu  div.html_data a.message:visited,
+div.extra_top_menu table.fixed_menu  div.html_data a.message:hover{font-size:11px;font-weight:bold;color:#33C}div.notifi_window a,
+div.notifi_window a:link,
+div.notifi_window a:visited{color:#FFF;text-decoration:underline}div.notifi_window a:hover{text-decoration:none}a:visited{color:#036}a,a:link{color:#036}a:hover,a:active{color:#800080}a.vacant{color:#003366!important;font-weight:bold}.form_advanced_wrapper{overflow:hidden}.form_advanced_table{font-size:11px;position:relative;width:100%;border-top:1px solid #dadada;border-right:1px solid #dadada;border-left:1px solid #dadada}.form_advanced_table select, .form_advanced_table input, .form_advanced_table textarea, .form_advanced_table
+button{font-size:11px;margin-left:0px;outline:none;vertical-align:middle}.form_advanced_table select, .form_advanced_table
+input{padding:1px}.form_advanced_table
+textarea{padding:0px;margin:0px}.form_advanced_table th, .form_advanced_table
+td{padding:8px;border-bottom:1px solid #dadada;vertical-align:top;white-space:nowrap}.form_advanced_table td.colspan
+b{text-transform:capitalize}.form_advanced_table th, .form_advanced_table td,.input_close,.button_wrapper_close{background-color:#f4f7fa}div.view_profile_form_wrapper .input_close, div.view_profile_form_wrapper
+.input_close_value{background-color:transparent}.form_advanced_table
+th.block_header{text-align:left;font-weight:normal;background-color:#EFF6F7;font-size:12px}.form_advanced_table
+td.caption{text-align:left;width:35%;padding-right:2px;padding-top:11px}.form_advanced_table td.caption:first-letter {text-transform:capitalize}.form_advanced_table
+td.value{padding-left:2px;padding-right:9px}.form_advanced_table
+.required{color:red}.input_wrapper{float:left;position:relative;background-position:top left;background-repeat:no-repeat}.input_wrapper_input_set{float:none}.input_wrapper_text,.input_wrapper_email,.input_wrapper_url,.input_wrapper_date,.input_wrapper_datetime,.input_wrapper_password,.input_wrapper_number{padding:3px
+2px 0px 2px;height:20px;background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/form_text_wrap.png)}.input_wrapper_range,.input_wrapper_doublerange{padding:4px
+4px 0px 4px;height:20px;width:138px;background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/form_text_wrap.png)}.input_wrapper_textarea{border-width:1px;border-style:solid;border-color:#C3DADD;background-color:#fff;padding:2px}.input_wrapper_textarea .mceEditor
+table.mceLayout{border:none}.input_wrapper_textarea .mceEditor table.mceLayout
+td{padding:0px}.input_wrapper_textarea .mceEditor table.mceLayout tr.mceFirst
+td{border-top:none;background:#eff6f7}.input_wrapper_textarea .mceEditor table.mceLayout tr.mceLast
+td{border-bottom:none}.input_close{position:absolute;top:0px;right:0px;width:4px;font-size:1px;background-position:right top;background-repeat:no-repeat;overflow:hidden}.input_close_text,.input_close_email,.input_close_url,.input_close_date,.input_close_datetime,.input_close_password,.input_close_number,.input_close_range,.input_close_doublerange{height:23px;background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/form_text_wrap.png)}.input_close_button,.input_close_submit,.input_close_reset{display:none}.form_advanced_wrapper
+.input_close_textarea{position:absolute;width:4px;height:4px;font-size:1px;overflow:hidden;background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/form_area_corners.png);background-repeat:no-repeat;background-color:#F4F7FA}.input_close_textarea.left.top{background-position:left top;left: -1px;top: -1px}.input_close_textarea.left.bottom{background-position:left bottom;position:absolute;left: -1px;bottom: -1px}.input_close_textarea.right.top{background-position:right top;position:absolute;right: -1px;top: -1px}.input_close_textarea.right.bottom{background-position:right bottom;position:absolute;right: -1px;bottom: -1px}.form_input_file, .form_input_select, .form_input_select_multiple, .form_input_select_box, .form_input_slider, .input_wrapper_select_box
+.form_input_text{width:165px;border:1px
+solid #999;background-color:#fff;margin-bottom:1px}.input_wrapper_select_box
+.form_input_text{width:194px;height:15px}.form_input_text,.form_input_email,.form_input_url,.form_input_date,.form_input_datetime,.form_input_password,.form_input_number,.form_input_range,.form_input_doublerange{border:none;width:100%;background-color:#fff}.form_input_textarea{border:none;background-color:#fff;width:100%;height:157px;resize:none}.input_wrapper_text,.input_wrapper_email,.input_wrapper_url,.input_wrapper_date,.input_wrapper_datetime,.input_wrapper_password,.input_wrapper_number,.input_wrapper_textarea{width:196px}.form_input_select_multiple{height:160px}.input_wrapper_value{padding-top:4px;font-weight:bold;white-space:normal}.form_input_radio,.form_input_checkbox{margin-top:0px;margin-bottom:0px}.input_wrapper
+label{vertical-align:middle}.form_advanced_table .colspan
+.input_wrapper{width:auto}.form_advanced_table .colspan img.info, .form_advanced_table .colspan.error
+img.warn{display:inline;float:none;margin-top:0px}.button_wrapper{position:relative;display:inline-block;text-align:center;background-position:left top}*+html
+.button_wrapper{display:inline}*html
+.button_wrapper{display:inline}.button_wrapper_close{position:absolute;top:0px;right:0px;font-size:1px;width:4px;overflow:hidden;background-position:right top}.button_wrapper,.button_wrapper_close{background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/button_bg.png);background-repeat:no-repeat}.button_wrapper, .button_wrapper input,.button_wrapper_close{height:25px}.button_wrapper input.form_input_button, .button_wrapper input.form_input_submit, .button_wrapper
+input.form_input_reset{background-image:none;width:auto}.button_wrapper:hover{background-position:0px -50px}.button_wrapper:hover
+.button_wrapper_close{background-position:right -50px}.button_wrapper:active{background-position:0px -100px}.button_wrapper:active
+.button_wrapper_close{background-position:right -100px}input[type=submit],input[type=button],input[type=reset],input.submit,input.button,input.reset{border:none;padding:5px
+6px 20px 6px;width:70px;height:25px;overflow:visible;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/button1_bg.png) no-repeat scroll left top}input[type=submit]:hover,input[type=button]:hover,input[type=reset]:hover,input.submit:hover,input.button:hover,input.reset:hover{background-position:0px -50px}input[type=submit]:active,input[type=button]:active,input[type=reset]:active,input.submit:active,input.button:active,input.reset:active{background-position:0px -100px}.button_icon{width:16px;height:16px;margin:4px
+0px 0px 4px;position:relative;float:left}.form_advanced_table img.info, .form_advanced_table img.warn,.multiply_add_button,.multiply_remove_button,.multiply_other_button,.reload_button{margin-left:3px;margin-top:3px;position:relative;display:block;float:left;cursor:help}.multiply_add_button,.multiply_remove_button,.multiply_other_button,.reload_button{cursor:pointer}.form_advanced_table
+img.warn{display:none}.error
+img.warn{display:block}.form_advanced .ui-slider{height:16px;width:auto;margin-top:0px;margin-right:18px;position:relative;border:none}.ui-slider .ui-widget-header{height:10px;position:absolute;top:3px;font-size:1px;border:none}.ui-slider-handle{position:absolute;top:1px;height:12px;width:16px;cursor:pointer;text-align:center;color:#333;overflow:hidden;font-size:10px;border:1px
+solid #999;background-color:#fff;background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/slider_trigger_bg.gif);background-position:top left;background-repeat:repeat-x}.ui-slider-handle.handle1{width:18px}#float_info{background-color:#FFFFD7;border:1px
+solid #CCC;padding:3px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;max-width:300px}.block_collapse_btn{float:right;position:relative;cursor:pointer}.quick_search_form1_wrapper .form_input_file, .quick_search_form1_wrapper .form_input_select, .quick_search_form1_wrapper .form_input_select_multiple, .quick_search_form1_wrapper .form_input_select_box, .quick_search_form1_wrapper .form_input_slider, .quick_search_form2_wrapper .form_input_file, .quick_search_form2_wrapper .form_input_select, .quick_search_form2_wrapper .form_input_select_multiple, .quick_search_form2_wrapper .form_input_select_box, .quick_search_form2_wrapper .form_input_slider, .simple_search_form1_wrapper .form_input_file, .simple_search_form1_wrapper .form_input_select, .simple_search_form1_wrapper .form_input_select_multiple, .simple_search_form1_wrapper .form_input_select_box, .simple_search_form1_wrapper .form_input_slider, .simple_search_form2_wrapper .form_input_file, .simple_search_form2_wrapper .form_input_select, .simple_search_form2_wrapper .form_input_select_multiple, .simple_search_form2_wrapper .form_input_select_box, .simple_search_form2_wrapper .form_input_slider, .login_box_form_wrapper .form_input_file, .login_box_form_wrapper .form_input_select, .login_box_form_wrapper .form_input_select_multiple, .login_box_form_wrapper .form_input_select_box, .login_box_form_wrapper
+.form_input_slider{width:144px}.quick_search_form1_wrapper .input_wrapper_text, .quick_search_form1_wrapper .input_wrapper_email, .quick_search_form1_wrapper .input_wrapper_url, .quick_search_form1_wrapper .input_wrapper_date, .quick_search_form1_wrapper .input_wrapper_datetime, .quick_search_form1_wrapper .input_wrapper_password, .quick_search_form1_wrapper .input_wrapper_number, .quick_search_form1_wrapper .input_wrapper_textarea, .quick_search_form2_wrapper .input_wrapper_text, .quick_search_form2_wrapper .input_wrapper_email, .quick_search_form2_wrapper .input_wrapper_url, .quick_search_form2_wrapper .input_wrapper_date, .quick_search_form2_wrapper .input_wrapper_datetime, .quick_search_form2_wrapper .input_wrapper_password, .quick_search_form2_wrapper .input_wrapper_number, .quick_search_form2_wrapper .input_wrapper_textarea, .simple_search_form1_wrapper .input_wrapper_text, .simple_search_form1_wrapper .input_wrapper_email, .simple_search_form1_wrapper .input_wrapper_url, .simple_search_form1_wrapper .input_wrapper_date, .simple_search_form1_wrapper .input_wrapper_datetime, .simple_search_form1_wrapper .input_wrapper_password, .simple_search_form1_wrapper .input_wrapper_number, .simple_search_form1_wrapper .input_wrapper_textarea, .simple_search_form2_wrapper .input_wrapper_text, .simple_search_form2_wrapper .input_wrapper_email, .simple_search_form2_wrapper .input_wrapper_url, .simple_search_form2_wrapper .input_wrapper_date, .simple_search_form2_wrapper .input_wrapper_datetime, .simple_search_form2_wrapper .input_wrapper_password, .simple_search_form2_wrapper .input_wrapper_number, .simple_search_form2_wrapper .input_wrapper_textarea, .login_box_form_wrapper .input_wrapper_text, .login_box_form_wrapper .input_wrapper_email, .login_box_form_wrapper .input_wrapper_url, .login_box_form_wrapper .input_wrapper_date, .login_box_form_wrapper .input_wrapper_datetime, .login_box_form_wrapper .input_wrapper_password, .login_box_form_wrapper .input_wrapper_number, .login_box_form_wrapper .input_wrapper_textarea, .subscribe_form_wrapper
+.input_wrapper_text{width:142px}.location_wrapper>div:first-child{margin-bottom:5px}.location_wrapper
+.form_input_metric{width:auto}.location_wrapper .form_input_distance, .location_wrapper
+.form_input_zip{border:1px
+solid #999;width:60px}.form_advanced_table{border-left:none;border-right:none;border-top:none}.form_advanced_table th, .form_advanced_table td,.input_close,.button_wrapper_close{background-color:transparent}.form_advanced_table th, .form_advanced_table
+td{border-bottom:none}.form_advanced_table
+th.block_header{background-color:transparent;font:bold 12px Verdana;text-align:left}.form_input_file, .form_input_select, .form_input_select_multiple, .form_input_select_box, .form_input_slider, .input_wrapper_select_box
+.form_input_text{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/input_bg.png) repeat-x scroll left top #f1f1f1;border:1px
+solid #C3DADD}.input_wrapper_text,.input_wrapper_email,.input_wrapper_url,.input_wrapper_date,.input_wrapper_datetime,.input_wrapper_password,.input_wrapper_number{background-image:none}.input_close_text,.input_close_email,.input_close_url,.input_close_date,.input_close_datetime,.input_close_password,.input_close_number,.input_close_range,.input_close_doublerange{background-image:none}.form_input_text,.form_input_email,.form_input_url,.form_input_date,.form_input_datetime,.form_input_password,.form_input_number,.form_input_range,.form_input_doublerange{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/input_bg.png) repeat-x scroll left top #f1f1f1;border:1px
+solid #C3DADD}.form_search_categories_wrapper
+.input_wrapper_submit{padding:0
+0 0 331px}.form_search_tags_wrapper
+.input_wrapper_submit{padding:0
+0 0 331px}.simple_search_form1_wrapper
+.input_wrapper_submit{padding:0
+0 0 98px}.simple_search_form2_wrapper
+.input_wrapper_submit{padding:0
+0 0 94px}.quick_search_form2_wrapper
+.input_wrapper_submit{padding:0
+0 0 101px}.quick_search_form1_wrapper
+.input_wrapper_submit{padding:0
+0 0 103px}.adv_search_form1_wrapper
+.input_wrapper_submit{padding:0
+0 0 78px}.adv_search_form2_wrapper
+.input_wrapper_submit{padding:0
+0 0 76px}.form_advanced_table th, .form_advanced_table td,.input_close,.button_wrapper_close{background-color:transparent}.form_advanced_table th, .form_advanced_table
+td{border-bottom:none}.form_advanced_table
+th.block_header{background-color:transparent;font:bold 11px Verdana!important;color:#484848!important}.input_wrapper_text,.input_wrapper_email,.input_wrapper_url,.input_wrapper_date,.input_wrapper_datetime,.input_wrapper_password,.input_wrapper_number{background-image:none}.input_close_text,.input_close_email,.input_close_url,.input_close_date,.input_close_datetime,.input_close_password,.input_close_number,.input_close_range,.input_close_doublerange{background-image:none}.button_wrapper input.form_input_button, .button_wrapper input.form_input_submit, .button_wrapper
+input.form_input_reset{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/button1.png) repeat-x scroll left top transparent;height:22px;width:105px;font:bold 11px Verdana;color:#fff;padding:0
+0 3px 0}.button_wrapper,.button_wrapper_close{background-image:none}input[type="submit"],input[type="button"],input[type="reset"],input.submit,input.button,input.reset{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/button1.png) repeat-x scroll left top transparent;height:22px;width:105px;padding:0
+0 3px 0;font:bold 11px Verdana;color:#fff}#forgot_form
+.form_input_submit{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/button1.png) repeat-x scroll left top transparent;margin:0
+0 0 137px;width:171px;padding:0
+0 3px 0;color:#fff!important;cursor:pointer}.input_wrapper_range,.input_wrapper_doublerange{background-image:none}.form_advanced_table
+input{padding:3px
+0;color:#484848}input[type="submit"]:hover,input[type="button"]:hover,input[type="reset"]:hover,input.submit:hover,input.button:hover,input.reset:hover{background-position:0 0px}.CreateAdsForm_wrapper
+.input_wrapper_textarea{width:583px !important}.form_input_select{color:#484848}.form_advanced_table
+th.block_header{background-color:#eff6f7;border-bottom:1px solid #D7E4E6}.login_form_cont{position:relative;/**/border:0px
+solid gray;width:300px;margin:0px
+auto;background-color:#FFF;padding:5px;font-size:12px}.login_form_header{display:none}.login_form_warning{font-weight:bold;color:#bd320b;text-align:center}.login_form_row{padding:4px}.login_form_label{float:left;width:80px;text-align:right;margin-right:7px;height:21px;line-height:21px}.login_form_row_forgot{padding-left:90px;margin-bottom:3px}.login_form_val{float:left}.login_form_input{width:180px}.login_form_submit{margin-top:2px}.login_form_join{position:absolute;bottom:11px;left:162px;font-size:13px;font-weight:bold}#login_box_form
+.form_input_submit{float:left}div.sys_top_menu{min-height:31px;position:relative;z-index:100}div.sys_top_menu a,  div.sys_top_menu a:link,  div.sys_top_menu a:visited,  div.sys_top_menu a:active,  div.sys_top_menu
+b{font-size:12px}table.topMenu{margin:0px
+auto;position:relative;z-index:1}table.topMenu
+td.top{padding:0px;position:relative;border-right:2px solid transparent}table.topMenu
+td.right{border-right:0px}.topMenu .top
+ul.sub{width:190px;height:auto;right:0px;margin:0px;padding:2px
+0px 0px 0px;position:absolute;top:-7px;z-index:20;display:none;visibility:hidden;list-style:none;white-space:nowrap;text-align:left}.topMenu .top ul.sub
+li{width:100%;margin:0px;line-height:33px;min-height:33px}.main_elements{left:0px}#mmm{border-collapse:collapse;top:0px;right:0px;width:0;height:0;position:absolute}.topMenu td.top:hover
+ul.sub{visibility:visible;display:block}.topMenu td.top a:hover ul.sub, .topMenu td.top:hover
+ul.sub{right:0px;position:absolute}.topMenu
+ul.more_sub{margin-left:18px;padding:0px;list-style:none}.topMenu ul.sub li:hover{vertical-align:middle}.topMenu ul.sub ul.more_sub li:hover{background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_smenu_sitem_act.png) no-repeat 0px 0px}.topMenu ul.sub .more_sub
+li{background-image:none;overflow:hidden}.topMenu .more_down,  .topMenu
+.more_right{width:9px;height:31px;vertical-align:middle;margin:0px}.topMenu
+.more_down{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/icons/tm_sitem_down.gif) no-repeat left 0px;margin-top:1px}.topMenu
+.more_right{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/icons/tm_sitem_right.gif) no-repeat left 0px;margin-top:1px}.topMenu{background-image:none}.topMenu
+td{height:31px;background-color:transparent;margin-right:0px;vertical-align:middle}.topMenu a,  .topMenu
+b{height:31px;line-height:31px}.subMenusContainer .subMenuOvr .subMenuInfoKeeper a,  .subMenusContainer .subMenuOvr .subMenuInfoKeeper a:link,  .subMenusContainer .subMenuOvr .subMenuInfoKeeper a:visited,  .subMenusContainer .subMenuOvr .subMenuInfoKeeper a:active{font-size:18px}td.sys_page_header{max-width:680px;padding:0px
+10px;white-space:nowrap;overflow:hidden}.topMenu a,  .topMenu a:link,  .topMenu a:visited,  .topMenu
+b{margin:0px;padding:0px
+0px 0px 5px;display:block;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_item_left.png) no-repeat scroll 0%;border-width:0px;text-transform:capitalize;text-decoration:none;color:#666;font-weight:normal}.topMenu a:focus{outline:0}.topMenu a:hover,  .topMenu a:active{color:#333}.topMenu td#tm_active a.top_link,  .topMenu td#tm_active a.top_link:link,  .topMenu td#tm_active a.top_link:visited,  .topMenu td#tm_active a.top_link:active{color:#333}.topMenu td.top:hover a.top_link,  .topMenu td.top:hover a.top_link:link,  .topMenu td.top:hover a.top_link:visited,  .topMenu td.top:hover a.top_link:active{}.topMenu
+b{color:#000}.topMenu a span.down,  .topMenu b
+span.down{padding:0px
+5px 0px 0px;display:block;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_item_right.png) no-repeat scroll right top;text-align:center;cursor:pointer}.topMenu a span.down img,  .topMenu b span.down
+img{width:16px;height:16px;margin:8px
+auto 7px auto;vertical-align:middle}.topMenu td.top:hover a span.down,  .topMenu td.top:hover b
+span.down{background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_item_right_act.png)}.topMenu td.top a:hover a span.down,  .topMenu td.top a:hover b
+span.down{background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_item_right_act.png)}.topMenu td#tm_active a
+span.down{background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_item_right_act.png)}.topMenu ul.sub li
+a.button{width:160px;height:33px;margin:0px
+0px 0px 20px;padding-left:0px;background-image:none;text-align:left;font-size:12px;color:#666;cursor:pointer;overflow:hidden}.more_down_tab_noimg{width:30px;float:left;cursor:pointer;text-align:center}.topMenu .sub a.more_ntop_element:hover{color:#333}.topMenu .sub a.more_top_element.active,  .topMenu .sub
+a.more_ntop_element.active{color:#333;font-weight:bold}.topMenu .top ul.sub
+.li_last_round{height:3px;position:absolute;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_smenu_bottom.png) no-repeat scroll left top;line-height:0px;font-size:0px}.topMenu .top ul.sub .li_last_round:hover{background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_smenu_bottom.png) no-repeat scroll left top}.subMenu{padding-top:0px}.subMenu
+.subMenuContainer{width:100%;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_cm_bg.png) repeat-x scroll;height:38px;text-transform:capitalize}.subMenu
+.subMenuContainerEmpty{width:100%;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_cm_bg.png) repeat-x scroll;height:20px}.subMenuOvr{margin-left:0px;position:relative}.subMenu
+table{margin-left:0px}.subMenu table
+td.usual{height:36px}.subMenu table
+td.tabbed{height:36px}.subMenu table td.usual div, .subMenu table td.tabbed
+div{height:36px;line-height:35px;display:block;float:left;overflow:hidden}.subMenu table td.usual
+div{margin-top:4px}.subMenu table td.tabbed
+div{font-size:14px;color:#333}.subMenu table td.divider
+div{display:block;height:34px;margin-top:5px}.subMenu table a.sublinks,  .subMenu table a.sublinks:link,  .subMenu table a.sublinks:visited{padding:0px
+8px;margin:0px
+0px;color:#666;display:block;height:32px;font-weight:normal;text-decoration:none}.subMenu table a.sublinks:hover,  .subMenu table a.sublinks:active{color:#333;background-color:#FFF}div.sys_tm_title_addon{height:61px;margin-top:10px}div.sys_tm_actions{height:39px;margin-top:5px;position:relative;float:right}div.sys_tm_actions
+div.input_wrapper{padding:0px}.subMenuOvr .sys_tm_actions .button_wrapper,  .subMenuOvr .sys_tm_actions
+.button_wrapper_close{background-image:url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/nl.png)}.subMenuOvr .sys_tm_actions
+.button_wrapper{margin-right:4px}.subMenuOvr .sys_tm_actions
+.button_wrapper_close{right: -4px}.subMenuOvr .sys_tm_actions input[type="submit"],  .subMenuOvr .sys_tm_actions
+input.submit{min-width:98px;width:98px;padding:7px
+6px 32px;background-image:none;font-size:18px;font-weight:bold}.subMenuOvr .sys_tm_actions .button_wrapper,  .subMenuOvr .sys_tm_actions .button_wrapper input,  .subMenuOvr .sys_tm_actions
+.button_wrapper_close{cursor:pointer;height:39px;background-color:transparent}.sys_tm_actions
+.bigJoinButton{color:#900}.sys_tm_actions
+.bigLoginButton{color:#090}div.subMenusContainer{margin:0px
+auto;border:0px}.subMenu{font-weight:bold}.subMenuOvr
+.subMenuInfoKeeper{height:71px;margin:0px
+10px;color:#333;text-transform:capitalize;padding:0;font-size:18px}.subMenuInfoKeeper
+.notify_message{min-width:450px;max-width:450px;position:relative;float:left}.subMenuInfoKeeper .notify_message
+table{width:100%}.subMenuOvr
+.actionItem{width:98px}.img_submenu{margin:0px;vertical-align:middle}#gse_search{background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/tm_sitem_search_bg.png) no-repeat scroll center;height:33px}#gse_search
+input{width:145px;height:15px;margin:7px
+10px 0px 30px;padding-top:3px;border:none;background:transparent;font-size:11px}.input_main{color:#d4d4d4}.input_focus{color:#333}.subMenuOvr
+.menu_user_actions{position:absolute;right:0px;top:0px;width:250px}.breadcrumb{height:19px;margin:0px
+10px;position:relative;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/bc_bg.png) repeat-x scroll;line-height:19px;text-transform:capitalize;font-size:9px;color:#666}.breadcrumb div.bc_open,  .breadcrumb
+div.bc_close{top:0px;width:10px;height:19px;position:absolute}.breadcrumb
+div.bc_open{left: -10px;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/bc_bg_open.png) no-repeat scroll left center}.breadcrumb
+div.bc_close{right: -10px;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/bc_bg_close.png) no-repeat scroll right center}.breadcrumb
+div.bc_unit{float:left;margin:0px
+10px 0px 0px}.breadcrumb
+img.bc_divider{width:7px;height:19px;margin:0px
+10px 0px 0px;position:relative;float:left}.breadcrumb
+div.bc_addons{position:relative;float:right}.breadcrumb a,  .breadcrumb a:link,  .breadcrumb a:visited,  .breadcrumb a:hover,  .breadcrumb a:active{color:#669;font-size:9px;text-transform:capitalize}div.sys_top_menu{}.topMenu a, .topMenu a:link, .topMenu a:visited, .topMenu
+b{background:none;color:#2b2b2b;line-height:34px}.topMenu a span.down, .topMenu b
+span.down{background:none}.topMenu td#tm_active a.top_link, .topMenu td#tm_active a.top_link:link, .topMenu td#tm_active a.top_link:visited, .topMenu td#tm_active a.top_link:active{padding:9px
+0 9px 5px;line-height:34px;color:#2b2b2b;background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/bg-active.png) center 11px repeat-x}.topMenu td#tm_active a
+span.down{background-image:none}.topMenu td.top:hover a.top_link, .topMenu td.top:hover a.top_link:link, .topMenu td.top:hover a.top_link:visited, .topMenu td.top:hover a.top_link:active{padding:9px
+0 9px 5px;line-height:34px;color:#2b2b2b}.topMenu td.top:hover a span.down, .topMenu td.top:hover b
+span.down{background-image:none}.topMenu a span.down img, .topMenu b span.down
+img{margin:9px
+auto 7px}.topMenu{height:51px}table.topMenu
+td.top{border-right:0px;padding-right:2px;background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/menu_list_bg.png) no-repeat right 13px}table.topMenu td.top:last-child{background:none}table.topMenu{margin:0
+auto 0px !important;width:998px !important;z-index:100 !important;background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/bg-navi.png) 0 11px no-repeat}#Container_inner
+.topMenu{margin:0
+auto 5px !important;width:998px !important;z-index:100 !important}#Container_inner
+#header{height:0 !important;padding:1px
+0 0 !important;text-align:left !important}#Container_inner
+div.sys_top_menu{min-height:180px}#Container_inner
+.sys_main_logo{margin-top:60px;z-index:100 !important}div.subMenusContainer{border:0
+none;margin-top:110px;padding:0
+0 1px}div.sys_breadcrumb{height:32px !important;width:100% !important}#Container_inner
+div.sys_bc_wrapper{margin:0
+0 0 0;width:998px!important}div.sys_bc_wrapper{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/bg-breadcrumb.png) 0 2px no-repeat;margin:0
+auto;height:32px;width:998px}.breadcrumb
+div.bc_open{background:none}.breadcrumb{background:none}.breadcrumb
+div.bc_close{background:none}.breadcrumb{color:#2b2b2b;font:normal 11px Verdana!important;line-height:30px!important}.breadcrumb a, .breadcrumb a:link, .breadcrumb a:visited, .breadcrumb a:hover, .breadcrumb a:active{color:#2b2b2b;font-size:11px!important}.topMenu .top
+ul.sub{background:#ecf7f8}.topMenu ul.sub li:hover{background:#9dcdd2;color:#fff}.topMenu ul.sub li:hover
+a{color:#fff}.topMenu .top ul.sub
+.li_last_round{background:none}.topMenu .top ul.sub
+li{border-top:1px solid #b5ccd0}.topMenu ul.sub ul.more_sub li:hover{background:#65b1e9;color:#fff}.topMenu
+ul.more_sub{background:#f5f5f5;margin-left:0px}.topMenu ul.sub li a.button:hover{color:#fff;font-weight:bold}.topMenu ul.sub li
+a.button{margin:0
+0 0 36px;line-height:32px;color:#191919}.topMenu .sub a.more_ntop_element:hover{color:#fff;font-weight:bold}.topMenu .sub a.more_top_element.active, .topMenu .sub
+a.more_ntop_element.active{color:#191919}.input_main{color:#888}.subMenu
+.subMenuContainerEmpty{background:none}.subMenusContainer .subMenuOvr .subMenuInfoKeeper a, .subMenusContainer .subMenuOvr .subMenuInfoKeeper a:link, .subMenusContainer .subMenuOvr .subMenuInfoKeeper a:visited, .subMenusContainer .subMenuOvr .subMenuInfoKeeper a:active{font:bold 25px Times New Roman;color:#000}.subMenu
+.subMenuContainer{background:url(http://www.biggestdating.com//templates/tmpl_tmd027/images/sub_menu_bg.png) left top no-repeat;height:41px;width:996px !important;margin-left:2px}.subMenu table td.usual div, .subMenu table td.tabbed
+div{background:none repeat scroll 0 0 transparent !important}.subMenu table td.tabbed
+div{color:#000;font:bold 11px/29px verdana}.subMenu table a.sublinks, .subMenu table a.sublinks:link, .subMenu table a.sublinks:visited{color:#666;font:bold 11px/27px verdana}.subMenu table a.sublinks:hover, .subMenu table a.sublinks:active{background-color:transparent;color:#000}.breadcrumb
+img.bc_divider{margin:6px
+10px 0 0}.subMenuOvr .sys_tm_actions input[type="submit"], .subMenuOvr .sys_tm_actions
+input.submit{min-width:50px;width:65px;font:bold 13px verdana;padding:10px
+6px 27px}.subMenuOvr .sys_tm_actions .button_wrapper, .subMenuOvr .sys_tm_actions
+.button_wrapper_close{background-image:none}.sys_tm_actions input[type="button"]{background:none;color:#000}.topMenu ul.sub li:hover
+a.more_top_element{color:#fff;font-weight:bold}#gse_search
+input{* margin:0px
+10px 0 30px}.subMenuOvr
+.subMenuInfoKeeper{color:#1e7acc}.statusTab
+.form_advanced_table#edit_form_table{border:0px;margin:10px
+0px 0px}.statusTab .form_advanced_table#edit_form_table
+td{border:0px;padding-bottom:10px}.statusTab .form_advanced_table#edit_form_table td
+.userStatMsg{white-space:normal;color:#666;font-size:9px}.statusTab .form_advanced_table#edit_form_table td
+.statusTypes{color:#333;font-size:11px;vertical-align:middle}div#Featured div.db_1_block
+div.container{overflow:hidden;min-height:10px}div.top_rated_head{color:#3B3B3B;font-weight:normal;text-align:left;margin-bottom:1px}div.rate_block_position{height:auto;top:3px;padding:0}div.rate_block_position
+.votes_small{float:none;width:70px;margin:0}div.rate_block_position .votes_small
+.votes_gray_small{float:none}div.rate_block_position .votes_small
+b{float:none;text-align:center}div.logged_section_block{height:35px;border:0px
+solid red;padding-top:0px;padding-left:3px;font-size:13px;font-weight:bold;text-align:center}div.logged_section_block
+div{float:left;height:20px;line-height:20px;vertical-align:middle;border:0px
+solid red;margin-top:9px;margin-right:5px}#indexPhotoBorder{border:1px
+solid #ccc;margin-bottom:11px;position:relative;/**/}#indexPhotoBorder div.sys-notifications{top:0px;height:81px}#indexPhotoBorder
+.jl{position:absolute;right:0;top:0px}#indexPhotoLabel{height:82px;line-height:82px;position:absolute;bottom:0px;width:100%;z-index:1;background:transparent url(http://www.biggestdating.com//templates/tmpl_tmd027/base/images/opSplash.png) repeat-x scroll left top}#indexPhotoLabel div.sys_title,
+#indexPhotoLabel
+div.label_thumb{font-size:24px;color:#333;font-weight:bold;text-shadow:0 1px 0 #FFF;letter-spacing: -0.02em}#indexPhotoLabel
+div.label_thumb{padding-left:10px;position:relative;float:left}#indexPhotoLabel
+div.label_thumbnail{padding-left:11px;padding-top:7px;position:relative;float:left}div.sys_title{height:82px;max-width:680px;text-indent:30px;overflow:hidden}div.sys_promo{bottom:0px;right:0px;position:absolute;line-height:0px}div.sys_promo
+div.sys_tm_actions{margin:0px
+30px 20px 0px;float:none}.bodyBlock{padding-top:10px}#indexPhoto{border:1px
+solid #fff;height:262px;overflow:hidden;cursor:pointer}#indexPhoto
+img{position:absolute}.promo_code_wrapper{border:1px
+solid #ccc;margin-bottom:10px;padding:10px}.sys_download_unit{background-position:0 0;background-repeat:no-repeat;margin:0px
+10px 10px 5px;min-height:56px;padding-left:63px}.boxContent>.sys_download_unit:first-child{margin-top:10px}.sys_download_unit>div>a{font-size:12px;font-weight:bold}div#prof_of_year,div#prof_of_month,div#prof_of_week,div#prof_of_day{width:70px;margin:5px;left:0px;float:left}div#prof_of_year .votes_small .votes_gray_small ,
+div#prof_of_month .votes_small .votes_gray_small ,
+div#prof_of_week .votes_small .votes_gray_small ,
+div#prof_of_day .votes_small
+.votes_gray_small{margin:0px
+auto}div#prof_of_year .votes_small b ,
+div#prof_of_month .votes_small b ,
+div#prof_of_week .votes_small b ,
+div#prof_of_day .votes_small
+b{margin:0px
+auto}div.rate_block_position{margin-top:3px;margin-bottom:0px}div.top_rated_nick{text-align:center}.top_rated_head
+.sex_icon{float:left;width:20px;height:26px}.top_rated_head
+.type_vote{float:left}div.featured_block_1{float:left;border:none;margin:5px;position:relative}div.featured_block_2{float:left;border:none;margin:0px
+0px 7px}div.featured_block{margin:0px
+2px 7px 2px;float:left;border:none}* html
+div.featured_block{margin:3px
+0px}.siteStatMain{font-size:11px;margin-left:5px;margin-right:5px;margin-top:10px;margin-bottom:10px}.siteStatUnit{float:left;width:50%;margin-bottom:5px;font-family:Verdana;font-size:11px;text-transform:lowercase}.siteStatUnit
+img{width:16px;height:16px;vertical-align:middle;padding-right:5px}div.dbContent{margin:4px}a.vacant{color:#999}.promo_code_wrapper{border:none !important;margin-bottom:0 !important;padding:0
+!important}.bx_photos_search_unit{height:230px}.bx_photos_file_search_pic{height:148px}.bx_photos_file_search_pic
+img{height:140px}.sys_album_unit{}.sys_album_unit
+.bx_sys_unit_checkbox{top:7px;left:7px}.sys_album_cover{height:140px}.sharedPhotos_View{margin:0px
+0px 2px 2px;font-size:11px}.picSwitcher{}.scrollContainer{height:40px;overflow:hidden;position:static;float:left}.scrollContainerArea{overflow:hidden;float:left;margin:0px}.scrollUnit{width:36px;height:36px;float:left;position:relative;margin:2px
+1px;background-repeat:no-repeat;background-position:center;border:1px
+solid #CCC}.scrollUnitPic{width:36px;height:36px;float:left;position:relative}.switcherTop{position:relative;margin:0px
+auto}.switcherTop
+div{position:relative}.scrollLeft{margin-right:21px;width:16px;height:36px;float:left;background-position:center;background-repeat:no-repeat}.scrollLeft
+img{width:16px;height:36px}.scrollRight{margin-left:21px;width:16px;height:36px;float:left;background-position:center;background-repeat:no-repeat}.scrollRight
+img{width:16px;height:36px}.mainInfo,.addInfo{margin:0px
+auto 5px}.picTitle{font-size:16px;float:left}.picRate{float:right}.addInfo{}.viewSwitchFile{margin:10px
+auto;text-align:center;border:1px
+solid #CCC}.viewSwitchFile
+img{margin:1px}.addInfoDate{text-transform:lowercase;color:#888}.addInfoFrom{margin-left:5px}.latestFile{margin:10px
+auto}.boxContent
+.votes_small{float:none;position:relative;width:auto}div.viewFile{margin:10px
+auto;padding:2px;text-align:center;border:1px
+solid #CCC}.searchContentBlock{margin:5px
+auto}#searchArea{margin:10px
+auto}.picSwitcher
+.paginate{margin-top:10px}.bx_sounds_search_unit{}.bx_sounds_file_search_pic{}.bx_sounds_file_search_pic
+img{}.sys_album_unit{}.sys_album_unit
+.bx_sys_unit_checkbox{top:7px;left:7px}.sys_album_cover{height:140px}.mainInfo{}.addInfo{}.addInfoDate{text-transform:lowercase;color:#888}.addInfoFrom{margin-left:5px}.latestFile{margin:10px
+auto}.boxContent
+.votes_small{float:none;position:relative;width:auto}div.viewFile{margin:10px
+auto;padding:2px;text-align:center;border:1px
+solid #CCC}div.fileInfo{margin:10px
+auto}div.fileTitle{margin:0px
+auto 5px auto;font-size:16px}.fileWhen,.fileFrom{margin-bottom:5px;float:left;position:relative}.fileWhen{text-transform:lowercase;color:#888}.fileFrom{margin-left:5px}.searchContentBlock{margin:5px
+auto}#searchArea{margin:10px
+auto}.picSwitcher
+.paginate{margin-top:10px}.bx_videos_search_unit{}.bx_videos_file_search_pic{}.bx_videos_file_search_pic
+img{}.sys_album_unit{}.sys_album_unit
+.bx_sys_unit_checkbox{top:7px;left:7px}.sys_album_cover{height:140px}.mainInfo{}.addInfo{}.addInfoDate{text-transform:lowercase;color:#888}.addInfoFrom{margin-left:5px}.latestFile{margin:10px
+auto}.boxContent
+.votes_small{float:none;position:relative;width:auto}div.viewFile{margin:10px
+auto;padding:1px;text-align:center;border:1px
+solid #CCC;width:602px}div.fileInfo{margin:10px
+auto}div.fileTitle{margin:0px
+auto 5px auto;font-size:16px}.fileWhen,.fileFrom{margin-bottom:5px;float:left;position:relative}.fileWhen{text-transform:lowercase;color:#888}.fileFrom{margin-left:5px}.searchContentBlock{margin:5px
+auto}#searchArea{margin:10px
+auto}.picSwitcher
+.paginate{margin-top:10px}div.calendar{position:relative}.calendar, .calendar
+table{border:1px
+solid #556;font-size:11px;color:#000;cursor:default;background:#eef;font-family:tahoma,verdana,sans-serif}.calendar
+.button{text-align:center;padding:2px}.calendar
+.nav{background:#778}.calendar thead
+.title{font-weight:bold;text-align:center;background:#fff;color:#000;padding:2px}.calendar thead
+.headrow{background:#778;color:#fff}.calendar thead
+.daynames{background:#bdf}.calendar thead
+.name{border-bottom:1px solid #556;padding:2px;text-align:center;color:#000}.calendar thead
+.weekend{color:#a66}.calendar thead
+.hilite{background-color:#aaf;color:#000;border:1px
+solid #04f;padding:1px}.calendar thead
+.active{background-color:#77c;padding:2px
+0px 0px 2px}.calendar tbody
+.day{width:2em;color:#456;text-align:right;padding:2px
+4px 2px 2px}.calendar tbody
+.day.othermonth{font-size:80%;color:#bbb}.calendar tbody
+.day.othermonth.oweekend{color:#fbb}.calendar table
+.wn{padding:2px
+3px 2px 2px;border-right:1px solid #000;background:#bdf}.calendar tbody .rowhilite
+td{background:#def}.calendar tbody .rowhilite
+td.wn{background:#eef}.calendar tbody
+td.hilite{background:#def;padding:1px
+3px 1px 1px;border:1px
+solid #bbb}.calendar tbody
+td.active{background:#cde;padding:2px
+2px 0px 2px}.calendar tbody
+td.selected{font-weight:bold;border:1px
+solid #000;padding:1px
+3px 1px 1px;background:#fff;color:#000}.calendar tbody
+td.weekend{color:#a66}.calendar tbody
+td.today{font-weight:bold;color:#00f}.calendar tbody
+.disabled{color:#999}.calendar tbody
+.emptycell{visibility:hidden}.calendar tbody
+.emptyrow{display:none}.calendar tfoot
+.footrow{text-align:center;background:#556;color:#fff}.calendar tfoot
+.ttip{background:#fff;color:#445;border-top:1px solid #556;padding:1px}.calendar tfoot
+.hilite{background:#aaf;border:1px
+solid #04f;color:#000;padding:1px}.calendar tfoot
+.active{background:#77c;padding:2px
+0px 0px 2px}.calendar
+.combo{position:absolute;display:none;top:0px;left:0px;width:4em;cursor:default;border:1px
+solid #655;background:#def;color:#000;font-size:90%;z-index:100}.calendar .combo .label,
+.calendar .combo .label-IEfix{text-align:center;padding:1px}.calendar .combo .label-IEfix{width:4em}.calendar .combo
+.hilite{background:#acf}.calendar .combo
+.active{border-top:1px solid #46a;border-bottom:1px solid #46a;background:#eef;font-weight:bold}.calendar
+td.time{border-top:1px solid #000;padding:1px
+0px;text-align:center;background-color:#f4f0e8}.calendar td.time .hour,
+.calendar td.time .minute,
+.calendar td.time
+.ampm{padding:0px
+3px 0px 4px;border:1px
+solid #889;font-weight:bold;background-color:#fff}.calendar td.time
+.ampm{text-align:center}.calendar td.time
+.colon{padding:0px
+2px 0px 3px;font-weight:bold}.calendar td.time
+span.hilite{border-color:#000;background-color:#667;color:#fff}.calendar td.time
+span.active{border-color:#f00;background-color:#000;color:#0f0}.ui-widget{font-family:Verdana,Arial,sans-serif;font-size:1.1em }.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget
+button{font-family:Verdana,Arial,sans-serif;font-size:1em}.ui-widget-content{border:1px
+solid #aaa;background:#fff url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;color:#222 }.ui-widget-content
+a{color:#222 }.ui-widget-header{border:1px
+solid #aaa;background:#ccc url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x;color:#222;font-weight:bold}.ui-widget-header
+a{color:#222 }.ui-state-default, .ui-widget-content .ui-state-default{border:1px
+solid #d3d3d3;background:#e6e6e6 url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#555;outline:none}.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited{color:#555;text-decoration:none;outline:none}.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus{border:1px
+solid #999;background:#dadada url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121;outline:none}.ui-state-hover a, .ui-state-hover a:hover{color:#212121;text-decoration:none;outline:none}.ui-state-active, .ui-widget-content .ui-state-active{border:1px
+solid #aaa;background:#fff url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121;outline:none}.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited{color:#212121;outline:none;text-decoration:none}.ui-state-highlight, .ui-widget-content .ui-state-highlight{border:1px
+solid #fcefa1;background:#fbf9ee url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x;color:#363636 }.ui-state-highlight a, .ui-widget-content .ui-state-highlight
+a{color:#363636 }.ui-state-error, .ui-widget-content .ui-state-error{border:1px
+solid #cd0a0a;background:#fef1ec url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x;color:#cd0a0a }.ui-state-error a, .ui-widget-content .ui-state-error
+a{color:#cd0a0a }.ui-state-error-text, .ui-widget-content .ui-state-error-text{color:#cd0a0a }.ui-state-disabled, .ui-widget-content .ui-state-disabled{opacity: .35;filter:Alpha(Opacity=35);background-image:none}.ui-priority-primary, .ui-widget-content .ui-priority-primary{font-weight:bold}.ui-priority-secondary, .ui-widget-content .ui-priority-secondary{opacity: .7;filter:Alpha(Opacity=70);font-weight:normal}.ui-icon{width:16px;height:16px;background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_222222_256x240.png) }.ui-widget-content .ui-icon{background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_222222_256x240.png) }.ui-widget-header .ui-icon{background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_222222_256x240.png) }.ui-state-default .ui-icon{background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_888888_256x240.png) }.ui-state-hover .ui-icon, .ui-state-focus .ui-icon{background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_454545_256x240.png) }.ui-state-active .ui-icon{background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_454545_256x240.png) }.ui-state-highlight .ui-icon{background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_2e83ff_256x240.png) }.ui-state-error .ui-icon, .ui-state-error-text .ui-icon{background-image:url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-icons_cd0a0a_256x240.png) }.ui-icon-carat-1-n{background-position:0 0}.ui-icon-carat-1-ne{background-position: -16px 0}.ui-icon-carat-1-e{background-position: -32px 0}.ui-icon-carat-1-se{background-position: -48px 0}.ui-icon-carat-1-s{background-position: -64px 0}.ui-icon-carat-1-sw{background-position: -80px 0}.ui-icon-carat-1-w{background-position: -96px 0}.ui-icon-carat-1-nw{background-position: -112px 0}.ui-icon-carat-2-n-s{background-position: -128px 0}.ui-icon-carat-2-e-w{background-position: -144px 0}.ui-icon-triangle-1-n{background-position:0 -16px}.ui-icon-triangle-1-ne{background-position: -16px -16px}.ui-icon-triangle-1-e{background-position: -32px -16px}.ui-icon-triangle-1-se{background-position: -48px -16px}.ui-icon-triangle-1-s{background-position: -64px -16px}.ui-icon-triangle-1-sw{background-position: -80px -16px}.ui-icon-triangle-1-w{background-position: -96px -16px}.ui-icon-triangle-1-nw{background-position: -112px -16px}.ui-icon-triangle-2-n-s{background-position: -128px -16px}.ui-icon-triangle-2-e-w{background-position: -144px -16px}.ui-icon-arrow-1-n{background-position:0 -32px}.ui-icon-arrow-1-ne{background-position: -16px -32px}.ui-icon-arrow-1-e{background-position: -32px -32px}.ui-icon-arrow-1-se{background-position: -48px -32px}.ui-icon-arrow-1-s{background-position: -64px -32px}.ui-icon-arrow-1-sw{background-position: -80px -32px}.ui-icon-arrow-1-w{background-position: -96px -32px}.ui-icon-arrow-1-nw{background-position: -112px -32px}.ui-icon-arrow-2-n-s{background-position: -128px -32px}.ui-icon-arrow-2-ne-sw{background-position: -144px -32px}.ui-icon-arrow-2-e-w{background-position: -160px -32px}.ui-icon-arrow-2-se-nw{background-position: -176px -32px}.ui-icon-arrowstop-1-n{background-position: -192px -32px}.ui-icon-arrowstop-1-e{background-position: -208px -32px}.ui-icon-arrowstop-1-s{background-position: -224px -32px}.ui-icon-arrowstop-1-w{background-position: -240px -32px}.ui-icon-arrowthick-1-n{background-position:0 -48px}.ui-icon-arrowthick-1-ne{background-position: -16px -48px}.ui-icon-arrowthick-1-e{background-position: -32px -48px}.ui-icon-arrowthick-1-se{background-position: -48px -48px}.ui-icon-arrowthick-1-s{background-position: -64px -48px}.ui-icon-arrowthick-1-sw{background-position: -80px -48px}.ui-icon-arrowthick-1-w{background-position: -96px -48px}.ui-icon-arrowthick-1-nw{background-position: -112px -48px}.ui-icon-arrowthick-2-n-s{background-position: -128px -48px}.ui-icon-arrowthick-2-ne-sw{background-position: -144px -48px}.ui-icon-arrowthick-2-e-w{background-position: -160px -48px}.ui-icon-arrowthick-2-se-nw{background-position: -176px -48px}.ui-icon-arrowthickstop-1-n{background-position: -192px -48px}.ui-icon-arrowthickstop-1-e{background-position: -208px -48px}.ui-icon-arrowthickstop-1-s{background-position: -224px -48px}.ui-icon-arrowthickstop-1-w{background-position: -240px -48px}.ui-icon-arrowreturnthick-1-w{background-position:0 -64px}.ui-icon-arrowreturnthick-1-n{background-position: -16px -64px}.ui-icon-arrowreturnthick-1-e{background-position: -32px -64px}.ui-icon-arrowreturnthick-1-s{background-position: -48px -64px}.ui-icon-arrowreturn-1-w{background-position: -64px -64px}.ui-icon-arrowreturn-1-n{background-position: -80px -64px}.ui-icon-arrowreturn-1-e{background-position: -96px -64px}.ui-icon-arrowreturn-1-s{background-position: -112px -64px}.ui-icon-arrowrefresh-1-w{background-position: -128px -64px}.ui-icon-arrowrefresh-1-n{background-position: -144px -64px}.ui-icon-arrowrefresh-1-e{background-position: -160px -64px}.ui-icon-arrowrefresh-1-s{background-position: -176px -64px}.ui-icon-arrow-4{background-position:0 -80px}.ui-icon-arrow-4-diag{background-position: -16px -80px}.ui-icon-extlink{background-position: -32px -80px}.ui-icon-newwin{background-position: -48px -80px}.ui-icon-refresh{background-position: -64px -80px}.ui-icon-shuffle{background-position: -80px -80px}.ui-icon-transfer-e-w{background-position: -96px -80px}.ui-icon-transferthick-e-w{background-position: -112px -80px}.ui-icon-folder-collapsed{background-position:0 -96px}.ui-icon-folder-open{background-position: -16px -96px}.ui-icon-document{background-position: -32px -96px}.ui-icon-document-b{background-position: -48px -96px}.ui-icon-note{background-position: -64px -96px}.ui-icon-mail-closed{background-position: -80px -96px}.ui-icon-mail-open{background-position: -96px -96px}.ui-icon-suitcase{background-position: -112px -96px}.ui-icon-comment{background-position: -128px -96px}.ui-icon-person{background-position: -144px -96px}.ui-icon-print{background-position: -160px -96px}.ui-icon-trash{background-position: -176px -96px}.ui-icon-locked{background-position: -192px -96px}.ui-icon-unlocked{background-position: -208px -96px}.ui-icon-bookmark{background-position: -224px -96px}.ui-icon-tag{background-position: -240px -96px}.ui-icon-home{background-position:0 -112px}.ui-icon-flag{background-position: -16px -112px}.ui-icon-calendar{background-position: -32px -112px}.ui-icon-cart{background-position: -48px -112px}.ui-icon-pencil{background-position: -64px -112px}.ui-icon-clock{background-position: -80px -112px}.ui-icon-disk{background-position: -96px -112px}.ui-icon-calculator{background-position: -112px -112px}.ui-icon-zoomin{background-position: -128px -112px}.ui-icon-zoomout{background-position: -144px -112px}.ui-icon-search{background-position: -160px -112px}.ui-icon-wrench{background-position: -176px -112px}.ui-icon-gear{background-position: -192px -112px}.ui-icon-heart{background-position: -208px -112px}.ui-icon-star{background-position: -224px -112px}.ui-icon-link{background-position: -240px -112px}.ui-icon-cancel{background-position:0 -128px}.ui-icon-plus{background-position: -16px -128px}.ui-icon-plusthick{background-position: -32px -128px}.ui-icon-minus{background-position: -48px -128px}.ui-icon-minusthick{background-position: -64px -128px}.ui-icon-close{background-position: -80px -128px}.ui-icon-closethick{background-position: -96px -128px}.ui-icon-key{background-position: -112px -128px}.ui-icon-lightbulb{background-position: -128px -128px}.ui-icon-scissors{background-position: -144px -128px}.ui-icon-clipboard{background-position: -160px -128px}.ui-icon-copy{background-position: -176px -128px}.ui-icon-contact{background-position: -192px -128px}.ui-icon-image{background-position: -208px -128px}.ui-icon-video{background-position: -224px -128px}.ui-icon-script{background-position: -240px -128px}.ui-icon-alert{background-position:0 -144px}.ui-icon-info{background-position: -16px -144px}.ui-icon-notice{background-position: -32px -144px}.ui-icon-help{background-position: -48px -144px}.ui-icon-check{background-position: -64px -144px}.ui-icon-bullet{background-position: -80px -144px}.ui-icon-radio-off{background-position: -96px -144px}.ui-icon-radio-on{background-position: -112px -144px}.ui-icon-pin-w{background-position: -128px -144px}.ui-icon-pin-s{background-position: -144px -144px}.ui-icon-play{background-position:0 -160px}.ui-icon-pause{background-position: -16px -160px}.ui-icon-seek-next{background-position: -32px -160px}.ui-icon-seek-prev{background-position: -48px -160px}.ui-icon-seek-end{background-position: -64px -160px}.ui-icon-seek-first{background-position: -80px -160px}.ui-icon-stop{background-position: -96px -160px}.ui-icon-eject{background-position: -112px -160px}.ui-icon-volume-off{background-position: -128px -160px}.ui-icon-volume-on{background-position: -144px -160px}.ui-icon-power{background-position:0 -176px}.ui-icon-signal-diag{background-position: -16px -176px}.ui-icon-signal{background-position: -32px -176px}.ui-icon-battery-0{background-position: -48px -176px}.ui-icon-battery-1{background-position: -64px -176px}.ui-icon-battery-2{background-position: -80px -176px}.ui-icon-battery-3{background-position: -96px -176px}.ui-icon-circle-plus{background-position:0 -192px}.ui-icon-circle-minus{background-position: -16px -192px}.ui-icon-circle-close{background-position: -32px -192px}.ui-icon-circle-triangle-e{background-position: -48px -192px}.ui-icon-circle-triangle-s{background-position: -64px -192px}.ui-icon-circle-triangle-w{background-position: -80px -192px}.ui-icon-circle-triangle-n{background-position: -96px -192px}.ui-icon-circle-arrow-e{background-position: -112px -192px}.ui-icon-circle-arrow-s{background-position: -128px -192px}.ui-icon-circle-arrow-w{background-position: -144px -192px}.ui-icon-circle-arrow-n{background-position: -160px -192px}.ui-icon-circle-zoomin{background-position: -176px -192px}.ui-icon-circle-zoomout{background-position: -192px -192px}.ui-icon-circle-check{background-position: -208px -192px}.ui-icon-circlesmall-plus{background-position:0 -208px}.ui-icon-circlesmall-minus{background-position: -16px -208px}.ui-icon-circlesmall-close{background-position: -32px -208px}.ui-icon-squaresmall-plus{background-position: -48px -208px}.ui-icon-squaresmall-minus{background-position: -64px -208px}.ui-icon-squaresmall-close{background-position: -80px -208px}.ui-icon-grip-dotted-vertical{background-position:0 -224px}.ui-icon-grip-dotted-horizontal{background-position: -16px -224px}.ui-icon-grip-solid-vertical{background-position: -32px -224px}.ui-icon-grip-solid-horizontal{background-position: -48px -224px}.ui-icon-gripsmall-diagonal-se{background-position: -64px -224px}.ui-icon-grip-diagonal-se{background-position: -80px -224px}.ui-corner-tl{-moz-border-radius-topleft:4px;-webkit-border-top-left-radius:4px }.ui-corner-tr{-moz-border-radius-topright:4px;-webkit-border-top-right-radius:4px }.ui-corner-bl{-moz-border-radius-bottomleft:4px;-webkit-border-bottom-left-radius:4px }.ui-corner-br{-moz-border-radius-bottomright:4px;-webkit-border-bottom-right-radius:4px }.ui-corner-top{-moz-border-radius-topleft:4px;-webkit-border-top-left-radius:4px;-moz-border-radius-topright:4px;-webkit-border-top-right-radius:4px }.ui-corner-bottom{-moz-border-radius-bottomleft:4px;-webkit-border-bottom-left-radius:4px;-moz-border-radius-bottomright:4px;-webkit-border-bottom-right-radius:4px }.ui-corner-right{-moz-border-radius-topright:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-bottomright:4px;-webkit-border-bottom-right-radius:4px }.ui-corner-left{-moz-border-radius-topleft:4px;-webkit-border-top-left-radius:4px;-moz-border-radius-bottomleft:4px;-webkit-border-bottom-left-radius:4px }.ui-corner-all{-moz-border-radius:4px;-webkit-border-radius:4px }.ui-widget-overlay{background:#aaa url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;opacity: .3;filter:Alpha(Opacity=30) }.ui-widget-shadow{margin: -8px 0 0 -8px;padding:8px;background:#aaa url(http://www.biggestdating.com//plugins/jquery/themes/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;opacity: .3;filter:Alpha(Opacity=30);-moz-border-radius:8px;-webkit-border-radius:8px }.ui-datepicker{width:17em;padding: .2em .2em 0;display:none}.ui-datepicker .ui-datepicker-header{position:relative;padding:.2em 0}.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next{position:absolute;top:2px;width:1.8em;height:1.8em}.ui-datepicker .ui-datepicker-prev-hover, .ui-datepicker .ui-datepicker-next-hover{top:1px}.ui-datepicker .ui-datepicker-prev{left:2px}.ui-datepicker .ui-datepicker-next{right:2px}.ui-datepicker .ui-datepicker-prev-hover{left:1px}.ui-datepicker .ui-datepicker-next-hover{right:1px}.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next
+span{display:block;position:absolute;left:50%;margin-left: -8px;top:50%;margin-top: -8px}.ui-datepicker .ui-datepicker-title{margin:0
+2.3em;line-height:1.8em;text-align:center;white-space:nowrap}.ui-datepicker .ui-datepicker-title
+select{float:left;font-size:1em;margin:1px
+0}.ui-datepicker select.ui-datepicker-month-year{width:100%}.ui-datepicker select.ui-datepicker-month,
+.ui-datepicker select.ui-datepicker-year{width:49%}.ui-datepicker .ui-datepicker-title select.ui-datepicker-year{float:none}.ui-datepicker
+table{width:100%;font-size: .9em;border-collapse:collapse;margin:0
+0 .4em}.ui-datepicker
+th{padding: .7em .3em;text-align:center;font-weight:bold;border:0}.ui-datepicker
+td{border:0;padding:1px}.ui-datepicker td span, .ui-datepicker td
+a{display:block;padding: .2em;text-align:right;text-decoration:none}.ui-datepicker .ui-datepicker-buttonpane{background-image:none;margin: .7em 0 0 0;padding:0
+.2em;border-left:0;border-right:0;border-bottom:0}.ui-datepicker .ui-datepicker-buttonpane
+button{float:right;margin: .5em .2em .4em;cursor:pointer;padding: .2em .6em .3em .6em;width:auto;overflow:visible}.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current{float:left}.ui-datepicker.ui-datepicker-multi{width:auto}.ui-datepicker-multi .ui-datepicker-group{float:left}.ui-datepicker-multi .ui-datepicker-group
+table{width:95%;margin:0
+auto .4em}.ui-datepicker-multi-2 .ui-datepicker-group{width:50%}.ui-datepicker-multi-3 .ui-datepicker-group{width:33.3%}.ui-datepicker-multi-4 .ui-datepicker-group{width:25%}.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header{border-left-width:0}.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header{border-left-width:0}.ui-datepicker-multi .ui-datepicker-buttonpane{clear:left}.ui-datepicker-row-break{clear:both;width:100%}.ui-datepicker-rtl{direction:rtl}.ui-datepicker-rtl .ui-datepicker-prev{right:2px;left:auto}.ui-datepicker-rtl .ui-datepicker-next{left:2px;right:auto}.ui-datepicker-rtl .ui-datepicker-prev:hover{right:1px;left:auto}.ui-datepicker-rtl .ui-datepicker-next:hover{left:1px;right:auto}.ui-datepicker-rtl .ui-datepicker-buttonpane{clear:right}.ui-datepicker-rtl .ui-datepicker-buttonpane
+button{float:left}.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current{float:right}.ui-datepicker-rtl .ui-datepicker-group{float:right}.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header{border-right-width:0;border-left-width:1px}.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header{border-right-width:0;border-left-width:1px}.ui-datepicker-cover{display:none;display/**/: block;position:absolute;z-index: -1;filter:mask();top: -4px;left: -4px;width:200px;height:200px}div.adm-design-box{width:560px}.manage_el{float:left;background-color:#FCC;margin-right:5px}div.block_cont{width:805px}div.admin_poll_block{float:left;margin-right:5px;margin-top:5px;border:solid 1px #ccc}div.input_wrapper{margin-bottom:5px}div.admin_actions_panel
+div.input_wrapper{float:right;padding-right:5px;padding-top:7px}div.admin_poll_block
+div.link_section{text-align:left;padding:5px}div.admin_poll_block
+div.admin_poll_section{position:relative;padding-top:25px;height:160px}div.admin_poll_block div.admin_poll_section
+div.admin_action{position:absolute;top:4px;left:4px}div.admin_poll_approved{background-color:green}div.admin_poll_not_approved{background-color:#FCC}form.poll_form{margin:10px}table.poll_table{width:100%}table.poll_table
+th{text-align:left}table.poll_table th
+img{vertical-align:middle}table.poll_table
+th.header{text-align:left;padding:12px}table.poll_table
+td.form_label{padding:12px;width:150px}table.poll_table
+div.answer_block{padding-top:2px;padding-bottom:2px}table.poll_table div.answer_block
+input{width:225px}table.poll_table
+.question_bar{width:225px}div.pollResultRow{background-image:url(http://www.biggestdating.com//modules/boonex/poll/templates/base/images/poll_res_fill.png);margin-bottom:10px;margin-left:5px;color:#FFF;font-weight:bold;font-family:Verdana;padding:1px}div.pollThumb{float:left;height:47px;position:relative;width:47px}div.pollBlock{float:none}div.poll_block{float:left;position:relative;padding:10px;width:250px}div.poll_block_view{float:none;width:96%}div.poll_block
+div.poll_section{float:left;position:relative;width:80%}div.poll_block
+div.poll_section_view{float:none;width:100%}*div.poll_block
+div.poll_section_view{width:90%}div.poll_block div.poll_section
+div.poll_result{float:right;position:relative}div.poll_block div.poll_section
+div.pollBlock{border:0
+solid #96B2C9;margin-bottom:10px;position:relative;text-align:left;width:100%}div.poll_block div.poll_section
+div.pollCaption{line-height:15px;margin:2px
+0 8px;position:relative;font-family:Verdana;size:12px;color:#33C;font-weight:bold;overflow:hidden}div.poll_block div.poll_section div.pollCaption :first-letter {text-transform:capitalize}div.poll_block div.poll_section
+div.pollAnswerBlock{height:85px;text-align:left}div.poll_block div.poll_section
+div.pollAnswerBlockView{height:auto}div.poll_block div.poll_section div.pollAnswerBlock
+div.pollSlBG{height:100%;position:absolute;top:0;width:17px}div.poll_block div.poll_section div.pollAnswerBlock table
+td.corner{width:5px;height:5px}div.poll_block div.poll_section div.pollAnswerBlock table
+td.spacer{height:5px;width:100%}div.poll_block div.poll_section div.pollAnswerBlock table
+td.poll{background-color:#EDEDED;padding:5px}div.poll_block div.poll_section div.pollAnswerBlock table td.poll
+div.poll_wrapper{position:relative;overflow:hidden;height:67px;width:187px}div.poll_block div.poll_section div.pollAnswerBlock table td.poll
+div.poll_wrapper_private{background-repeat:no-repeat;background-position:center center}div.poll_block div.poll_section div.pollAnswerBlock table td.poll div.poll_wrapper
+div.pollUp{left:0;position:absolute;top:0}div.poll_block div.poll_section div.pollAnswerBlock table td.poll div.poll_wrapper
+div.pollDown{bottom:0;left:0;position:absolute}div.poll_block div.poll_section div.pollAnswerBlock table td.poll div.poll_wrapper
+div.pollQuestionBlock{border:0
+solid green;margin-left:17px;overflow:hidden;position:absolute;width:90%}div.poll_block div.poll_section div.pollAnswerBlock table td.poll div.poll_wrapper div.pollQuestionBlock
+span.votes_number{color:#ADADAD;font-size:9px}div.poll_info{position:relative;width:100%}div.poll_info
+div.owner_info{color:#999;float:left;font-family:Verdana;font-size:9px;height:15px;overflow:hidden;padding-top:3px;width:75%;white-space:nowrap}div.poll_info div.owner_info
+span.date_add{color:#ADADAD}div.poll_info div.owner_info  a:link,
+div.poll_info div.owner_info  a:visited,
+div.poll_info div.owner_info  a:hover,
+div.poll_info div.owner_info  a:active{font-family:Verdana;font-size:9px;color:#66C}div.poll_info
+div.result_section{color:#999;float:right;font-family:Verdana;font-size:9px;height:20px;overflow:hidden;padding-top:3px;width:20%}div.poll_info
+div.actions{margin-top:5px;font-size:9px}div.poll_info
+div.back_poll_section{display:none;font-family:Verdana;font-size:9px;color:#999;float:right}div.poll_owner_block{margin:10px}div.poll_owner_block
+div.info{float:left;position:relative;margin-left:10px;text-align:left}div.poll_owner_block div.info
+div{margin-bottom:5px}div.poll_owner_block div.info
+img{vertical-align:middle}div.pollQuestionBlockView{position:relative;width:100%}div#sbs_visitor_popup{width:490px;display:none}
